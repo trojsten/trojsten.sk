@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>{{ block "title" . -}}
+        {{ .Title }} | {{ .Site.Title }}
+        {{- end }}</title>
+
+    <link rel="stylesheet" type="text/css" href="{{ (resources.Get "css/app.css").Permalink }}"/>
+    <script src="https://code.iconify.design/2/2.0.0/iconify.min.js"></script>
+</head>
+<body>
+
+{{ partial "navbar.html" . }}
+
+{{ block "body" . }}{{ end }}
+
+{{ partial "footer.html" . }}
+
+<script>
+    document.querySelectorAll(".js-mobile-menu-toggle").forEach((e) => e.addEventListener("click", () => {
+        document.getElementById("mobile-menu").classList.toggle("hidden")
+    }))
+</script>
+
+</body>
+</html>

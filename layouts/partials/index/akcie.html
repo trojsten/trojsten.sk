@@ -1,0 +1,22 @@
+<div class="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Aktivity</h2>
+        <p class="mt-6 text-lg leading-8 text-gray-600">
+            Počas celého roka pripravujeme množstvo rôznych aktivít, ktoré približujú matematiku, fyziku, informatiku a
+            rozvíjajú logické myslenie.
+        </p>
+    </div>
+
+    <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:max-w-7xl lg:grid-cols-3">
+        {{ range (where $.Site.Data.aktivity "homepage" true) }}
+        {{ partial "activity.html" . }}
+        {{ end }}
+    </div>
+
+    <div class="text-center mt-12">
+        <a href="{{ ref . "aktivity" }}" class="btn">
+            Všetky aktivity Trojstenu
+            <span class="iconify w-4 h-4" data-icon="mdi:arrow-right"></span>
+        </a>
+    </div>
+</div>

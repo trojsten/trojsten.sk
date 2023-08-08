@@ -1,0 +1,49 @@
+---
+- name: Súťaž v šifrovaní
+  image: akademia.jpg
+  homepage: true
+  link: https://susi.trojsten.sk/
+  description: |
+    Súťaž v riešení šifier. Šifra je logická hádanka alebo úloha, ktorá nemá známy postup riešenia. Podstatou vyriešenia
+    šifry je objaviť tento postup, teda objaviť spôsob akým je ukryté heslo. Súťaž je určená primárne pre stredoškolákov,
+    ale zapojiť sa môže ktokoľvek.
+- name: Tímové súťaže Náboj
+  image: akademia.jpg
+  homepage: true
+  link: https://naboj.org/
+  description: |
+    Medzinárodné tímové súťaže v matematike a fyzike určené pre žiakov základných a stredných školy. Netradičné
+    príklady, ktoré pomáhajú rozvíjať predstavivosť a logické myslenie. Ktorý tím vyrieši najviac príkladov počas súťaže?
+- name: Akadémia Trojstenu
+  image: akademia.jpg
+  homepage: true
+  link: https://akademia.trojsten.sk/
+  description: |
+    Prednášky pre študentov stredných škôl, ktoré sa konajú pod strechou našej fakulty - FMFI UK. Prednášajúci z našej
+    fakulty si pripravia prednášky, v ktorých populárnym a pochopiteľným spôsobom priblížia zaujímavé oblasti zo svojich
+    vedných disciplín.
+
+- name: Letné školy Trojstenu
+  image: akademia.jpg
+  summer: true
+  link: https://akademia.trojsten.sk/
+  description: |
+    Chceš sa posúnúť míľovými krokmi dopredu vo svete fyziky, matematiky či informatiky? Letná škola je výborný spôsob ako
+    stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného. Okrem odborného programu na teba čaká
+    aj organizovaný voľnočasový program.
+- name: Letný Tábor Trojstenu
+  image: akademia.jpg
+  summer: true
+  link: https://akademia.trojsten.sk/
+  description: |
+    Tábor, na ktorom sa naučíš niečo nové z matematiky, fyziky a informatiky, zažiješ kopec zábavy, netradičných športov,
+    spoznáš nových kamarátov s podobnými záujmami a mnoho ďalšieho!
+
+- name: Akadémia 2
+  image: akademia.jpg
+  homepage: false
+  link: https://akademia.trojsten.sk/
+  description: |
+    Prednášky pre študentov stredných škôl, ktoré sa konajú pod strechou našej fakulty - FMFI UK. Prednášajúci z našej
+    fakulty si pripravia prednášky, v ktorých populárnym a pochopiteľným spôsobom priblížia zaujímavé oblasti zo svojich
+    vedných disciplín.

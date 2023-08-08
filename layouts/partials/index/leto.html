@@ -1,0 +1,15 @@
+<div class="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Leto s Trojstenom</h2>
+        <p class="mt-6 text-lg leading-8 text-gray-600">
+            Chýbajú sa ti akcie, ktoré sa konajú cez školský rok? Alebo máš len veľa voľného času cez letné prázdniny? Trojsten má
+            niečo aj pre teba!
+        </p>
+    </div>
+
+    <div class="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:max-w-7xl lg:grid-cols-3">
+        {{ range (where $.Site.Data.aktivity "summer" true) }}
+        {{ partial "activity.html" . }}
+        {{ end }}
+    </div>
+</div>
