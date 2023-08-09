@@ -72,13 +72,16 @@ params:
 >}}
     {{< landing/icon-grid >}}
         {{< landing/icon-grid-item icon="mdi:book-open-variant"
-            title="Vzdelanie"
-            text="Neveríme na memorovanie a sme presvedčení, že prírodným vedám sa dá rozumieť do hĺbky. Pestujeme individuálny prístup. Dôkazom je, že naši riešitelia študujú na popredných zahraničných univerzitách, pracujú v popredných svetových aj domácich firmách, či stoja aj za úspešnými startupmi." >}}
+            title="Vzdelanie" >}}
+        Neveríme na memorovanie a sme presvedčení, že prírodným vedám sa dá rozumieť do hĺbky. Pestujeme individuálny prístup. Dôkazom je, že naši riešitelia študujú na popredných zahraničných univerzitách, pracujú v popredných svetových aj domácich firmách, či stoja aj za úspešnými startupmi.
+        {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:heart"
-            title="Komunita"
-            text="Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac znamená byť uznávaný a nie zatracovaný. Sústredenia, na ktorých zažijete bláznivé aktivity ako nikde inde a kde vznikajú priateľstvá na celý život. Dodávame sebavedomie introvertnejším a nútime sa vystúpiť mimo našu komfortnú zónu." >}}
+            title="Komunita" >}}
+        Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac znamená byť uznávaný a nie zatracovaný. Sústredenia, na ktorých zažijete bláznivé aktivity ako nikde inde a kde vznikajú priateľstvá na celý život. Dodávame sebavedomie introvertnejším a nútime sa vystúpiť mimo našu komfortnú zónu.
+        {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:emoticon-happy"
-            title="Zábava"
-            text="Nehanbíme sa za to, akí sme. Veríme, že prírodné vedy a matematika sa dajú vyučovať aj zábavnou a kreatívnou cestou v neformálnej atmosfére, a pri tom všetkom sa dá aj zabaviť. Vzájomné súťaženie nás posúva vpred." >}}
+            title="Zábava" >}}
+        Nehanbíme sa za to, akí sme. Veríme, že prírodné vedy a matematika sa dajú vyučovať aj zábavnou a kreatívnou cestou v neformálnej atmosfére, a pri tom všetkom sa dá aj zabaviť. Vzájomné súťaženie nás posúva vpred.
+        {{</ landing/icon-grid-item >}}
     {{</ landing/icon-grid >}}
 {{</ landing/simple-section >}}

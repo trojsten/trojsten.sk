@@ -3,3 +3,6 @@ languageCode = 'sk'
 title = 'Trojsten'
 
 disableKinds = ['taxonomy', 'term']
+
+[markup.goldmark.renderer]
+unsafe = true

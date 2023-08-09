@@ -3,7 +3,13 @@
         <span class="iconify w-5 h-5 flex-none text-blue-600" {{ printf "data-icon=%q" (.Get "icon") | safeHTMLAttr }}></span>
         {{ .Get "title" }}
     </div>
-    <p class="mt-4 text-base leading-7 text-gray-600">
-        {{ .Get "text" }}
-    </p>
+    <div class="mt-4 text-base leading-7 text-gray-600 space-y-2">
+        {{ .InnerDeindent | markdownify }}
+    </div>
+    {{ if .Get "cta_text" }}
+    <a href="{{ .Get "cta_link" | safeURL }}" class="btn mt-6">
+        {{ .Get "cta_text" }}
+        <span class="iconify w-4 h-4" data-icon="mdi:arrow-right"></span>
+    </a>
+    {{ end }}
 </div>

@@ -1,9 +1,6 @@
 {{ define "body" }}
 
-<div class="mx-auto max-w-2xl text-center prose px-6 lg:px-8 py-10 sm:py-16">
-    {{ .Content }}
-</div>
-
+{{ .Content }}
 
 <div class="mx-auto my-16 grid max-w-2xl grid-cols-1 gap-x-8 gap-y-20 lg:max-w-7xl lg:grid-cols-3">
     {{ range (sort $.Site.Data.aktivity "name") }}

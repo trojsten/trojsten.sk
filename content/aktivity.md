@@ -3,9 +3,11 @@ title: Aktivity
 aliases:
     - /chcem-sa-zapojit/
 layout: aktivity
-menu: main
+menu:
+    main:
+        weight: 10
 ---
 
-# Aktivity Trojstenu
-
-TODO
+{{< landing/simple-section
+    title="Aktivity Trojstenu"
+    text="TODO" />}}
