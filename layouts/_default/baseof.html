@@ -8,7 +8,9 @@
         {{ .Title }} | {{ .Site.Title }}
         {{- end }}</title>
 
-    <link rel="stylesheet" type="text/css" href="{{ (resources.Get "css/app.css").Permalink }}"/>
+    {{ with resources.Get "css/app.css" | postCSS | minify | fingerprint }}
+    <link rel="stylesheet" type="text/css" href="{{ .RelPermalink }}"/>
+    {{ end }}
     <script src="https://code.iconify.design/2/2.0.0/iconify.min.js"></script>
 </head>
 <body>

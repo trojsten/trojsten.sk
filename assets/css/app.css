@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .bg-texture {
-    background-image: url('/images/texture.svg');
+    background-image: url('../images/texture.svg');
     background-size: 30rem;
 }
 

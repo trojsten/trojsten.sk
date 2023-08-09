@@ -1,3 +1,5 @@
 baseURL = 'https://trojsten.sk/'
 languageCode = 'sk'
 title = 'Trojsten'
+
+disableKinds = ['taxonomy', 'term']
