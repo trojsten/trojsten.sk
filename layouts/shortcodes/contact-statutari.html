@@ -1,0 +1,13 @@
+<ul role="list"
+    class="mx-auto grid max-w-2xl grid-cols-2 gap-x-8 gap-y-16 text-center md:grid-cols-4 lg:mx-0 lg:max-w-none">
+    {{ range $.Site.Data.statutari }}
+    <li>
+        {{ $img := resources.Get (print "statutari/" .photo) }}
+        <img class="mx-auto h-36 w-36 rounded-full" src="{{ $img.RelPermalink }}" alt="{{ .name }}">
+        <h3 class="mt-4 text-base font-semibold leading-7 tracking-tight text-gray-900">{{ .name }}</h3>
+        <a href="mailto:{{ .mail }}" class="text-sm leading-6 text-gray-600 hover:underline">
+            {{ .mail }}
+        </a>
+    </li>
+    {{ end }}
+</ul>
