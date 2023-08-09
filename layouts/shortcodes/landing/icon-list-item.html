@@ -1,0 +1,9 @@
+<div class="relative pl-9">
+    <dt class="inline font-semibold text-gray-900">
+        <span class="iconify absolute left-1 top-1 h-5 w-5 text-blue-600" {{ printf "data-icon=%q" (.Get "icon") | safeHTMLAttr }}></span>
+        {{ .Get "title" }}
+    </dt>
+    <dd class="inline">
+        {{ .Get "text" }}
+    </dd>
+</div>

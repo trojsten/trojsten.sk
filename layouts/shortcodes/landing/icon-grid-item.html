@@ -1,0 +1,9 @@
+<div>
+    <div class="flex items-center gap-x-3 text-base font-semibold leading-7 text-gray-900">
+        <span class="iconify w-5 h-5 flex-none text-blue-600" {{ printf "data-icon=%q" (.Get "icon") | safeHTMLAttr }}></span>
+        {{ .Get "title" }}
+    </div>
+    <p class="mt-4 text-base leading-7 text-gray-600">
+        {{ .Get "text" }}
+    </p>
+</div>

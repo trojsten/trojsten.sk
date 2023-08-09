@@ -1,0 +1,18 @@
+<div class="bg-white px-6 py-24 sm:py-32 lg:px-8">
+    <div class="mx-auto max-w-2xl text-center">
+        <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">{{ .Get "title" }}</h2>
+        {{ if .Get "text" }}
+        <p class="mt-6 text-lg leading-8 text-gray-600">
+            {{ .Get "text" }}
+        </p>
+        {{ end }}
+    </div>
+
+    <div class="mx-auto mt-16 max-w-2xl lg:max-w-7xl">
+        {{ .InnerDeindent }}
+    </div>
+
+    {{ if .Get "cta_text" }}
+    {{ partial "landing/cta.html" .Params }}
+    {{ end }}
+</div>
