@@ -4,7 +4,7 @@
             <a href="/" class="-m-1.5 p-1.5">
                 <span class="sr-only">Trojsten</span>
                 {{- $logoW := resources.Get "logo/white.svg" -}}
-                <img class="h-10 w-auto" src="{{ $logoW.Permalink }}" alt="Trojsten">
+                <img class="h-10 w-auto" src="{{ $logoW.RelPermalink }}" alt="Trojsten">
             </a>
         </div>
         <div class="flex lg:hidden">
@@ -28,7 +28,7 @@
                 <a href="/" class="-m-1.5 p-1.5">
                     <span class="sr-only">Trojsten</span>
                     {{- $logoB := resources.Get "logo/blue.svg" -}}
-                    <img class="h-10 w-auto" src="{{ $logoB.Permalink }}" alt="Trojsten">
+                    <img class="h-10 w-auto" src="{{ $logoB.RelPermalink }}" alt="Trojsten">
                 </a>
                 <button type="button" class="-m-2.5 rounded-md p-2.5 text-gray-700 js-mobile-menu-toggle">
                     <span class="sr-only">Zavrieť menu</span>
