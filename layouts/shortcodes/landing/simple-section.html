@@ -8,9 +8,11 @@
         {{ end }}
     </div>
 
+    {{ if strings.ContainsNonSpace .Inner }}
     <div class="mx-auto mt-16 max-w-2xl lg:max-w-7xl">
         {{ .InnerDeindent }}
     </div>
+    {{ end }}
 
     {{ if .Get "cta_text" }}
     {{ partial "landing/cta.html" .Params }}
