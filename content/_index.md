@@ -30,7 +30,7 @@ params:
 
 {{< landing/right-image
     title="Sústredenia"
-    text="Najlepších riešiteľov korešpondenčných seminárov pozývame na týždenné sústredenie. Ide o pobyt v prírodných rekreačných zariadeniach, vzdialených od ruchu miest, kde sa veľa naučíš, zabavíš a spoznáš nových ľudí."
+    text="Najlepších riešiteľov korešpondenčných seminárov pozývame na týždenné sústredenie. Ide o pobyt v rekreačných zariadeniach, často školách v prírode, vzdialených od ruchu miest, kde sa veľa naučíš, zabavíš a spoznáš nových ľudí."
     image="https://ltt.trojsten.sk/graphics/ltt2022-2.jpg"
     cta_text="Začať riešiť semináre"
     cta_link="#"
@@ -77,7 +77,7 @@ params:
         {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:heart"
             title="Komunita" >}}
-        Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac znamená byť uznávaný a nie zatracovaný. Sústredenia, na ktorých zažijete bláznivé aktivity ako nikde inde a kde vznikajú priateľstvá na celý život. Dodávame sebavedomie introvertnejším a nútime sa vystúpiť mimo našu komfortnú zónu.
+        Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac znamená byť uznávaný a nie zatracovaný. Sústredenia, na ktorých zažijete bláznivé aktivity ako nikde inde a kde vznikajú priateľstvá na celý život. Dodávame sebavedomie introvertnejším a nútime ich vystúpiť mimo našu komfortnú zónu.
         {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:emoticon-happy"
             title="Zábava" >}}
