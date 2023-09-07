@@ -24,7 +24,7 @@ menu:
             title="Dobrovoľníctvo."
             text="Trojsten stavia na dobrovoľníckom princípe, oragnizátori vo svojom voľnom čase pracujú pre Trojsten bez nároku na odmenu." >}}
         {{< landing/icon-list-item icon="mdi:flask"
-            title="Múdri ľudia a nezávislé osobnosti?"
+            title="Múdri ľudia a výnimočné osobnosti"
             text="Sme budúci vedci, programátori a podnikatelia, ktorý budú posúvať Slovensko a svet dopredu." >}}
         {{< landing/icon-list-item icon="mdi:account-tie"
             title="Výsledky."
