@@ -14,7 +14,7 @@ menu:
 {{< landing/right-image
     title="Veľká komunita"
     text="Trojsten tvorí komunitu mladých ľudí, ktorí sa zaujímajú o prírodné vedy. Nájdete medzi nami nielen stredoškolákov a vysokoškolákov, ale aj vedcov, vysokoškolských pedagógov a zamestnancov popredných firiem."
-    image="vzdelavanie-1.jpg"
+    image="komunita.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:calendar-month"

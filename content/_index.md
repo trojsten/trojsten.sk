@@ -31,7 +31,7 @@ params:
 {{< landing/right-image
     title="Sústredenia"
     text="Najlepších riešiteľov korešpondenčných seminárov pozývame na týždenné sústredenie. Ide o pobyt v rekreačných zariadeniach, často školách v prírode, vzdialených od ruchu miest, kde sa veľa naučíš, zabavíš a spoznáš nových ľudí."
-    image="vzdelavanie-1.jpg"
+    image="sustredenia.jpg"
     cta_text="Začať riešiť semináre"
     cta_link="#"
 >}}
