@@ -10,4 +10,4 @@ menu:
 
 {{< landing/simple-section
     title="Aktivity Trojstenu"
-    text="TODO" />}}
+    text="" />}}

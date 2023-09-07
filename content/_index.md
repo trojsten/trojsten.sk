@@ -12,7 +12,7 @@ params:
 {{< landing/left-image
     title="Korešpondenčné semináre"
     text="Korešpondenčné semináre sú dlhodobé online súťaže, v&nbsp;ktorých si pre&nbsp;teba pripravíme úlohy, ktoré samostatne doma riešiš. K&nbsp;tvojim odovzdaným riešeniam ti potom napíšeme individuálnu spätnú väzbu a bodové hodnotenie."
-    image="vzdelavanie-1.jpg"
+    image="seminare.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:file-document-edit"

@@ -1,6 +1,6 @@
 ---
 - name: Súťaž v šifrovaní
-  image: akademia.jpg
+  image: susi.jpg
   homepage: true
   link: https://susi.trojsten.sk/
   description: |
@@ -8,7 +8,7 @@
     šifry je objaviť tento postup, teda objaviť spôsob akým je ukryté heslo. Súťaž je určená primárne pre stredoškolákov,
     ale zapojiť sa môže ktokoľvek.
 - name: Tímové súťaže Náboj
-  image: naboj-2.jpg
+  image: naboj-3.jpg
   homepage: true
   link: https://naboj.org/
   description: |
@@ -24,7 +24,7 @@
     vedných disciplín.
 
 - name: Letné školy Trojstenu
-  image: letna-skola-1.jpg
+  image: letna-skola-4.jpg
   summer: true
   link: https://akademia.trojsten.sk/
   description: |

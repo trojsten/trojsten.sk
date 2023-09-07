@@ -36,7 +36,7 @@ menu:
 {{< landing/left-image
     title="Vzdelávanie mládeže"
     text="Popularizujeme matematiku, fyziku a informatiku. Svoje znalosti posúvame ďalšej generácií a rozvíjame zručnosti tých najlepších. Niektoré naše projekty sme expandovali aj za hranice Slovenska."
-    image="vzdelavanie-1.jpg"
+    image="vzdelavanie-3.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:creation"
