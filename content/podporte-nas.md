@@ -8,13 +8,13 @@ menu:
 
 {{< landing/hero
     title="Podporte Trojsten!"
-    subtitle="Bez pomoci našich sponzorov by sme nemohli plniť naše poslanie vzdelávania mládeže. Pridajte sa medzi nás!" />}}
+    subtitle="Bez pomoci našich partnerov by sme nemohli plniť naše poslanie vzdelávania mládeže. Pridajte sa medzi nás!" />}}
 
 
 {{< landing/right-image
     title="Veľká komunita"
-    text="Trojsten tvorí komunitu mladých ľudí, ktorí majú záujmy v prírodných vedách. Nájdete medzi nami nielen stredoškolákov a vysokoškolákov, ale aj vedcov, vysokoškolských pedagógov a zamestnancov popredných firiem."
-    image="https://ltt.trojsten.sk/graphics/ltt2022-2.jpg"
+    text="Trojsten tvorí komunitu mladých ľudí, ktorí sa zaujímajú o prírodné vedy. Nájdete medzi nami nielen stredoškolákov a vysokoškolákov, ale aj vedcov, vysokoškolských pedagógov a zamestnancov popredných firiem."
+    image="komunita.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:calendar-month"
@@ -22,9 +22,9 @@ menu:
             text="Z bývalých riešiteľov sa stávajú organizátori, vďaka čomu komunita Trojstenu funguje už vyše 30 rokov." >}}
         {{< landing/icon-list-item icon="mdi:cash-off"
             title="Dobrovoľníctvo."
-            text="Trojsten stavia na dobrovoľníckom princípe, oragnizátori vo svojom voľnom čase pracujú pre Trojsten." >}}
+            text="Trojsten stavia na dobrovoľníckom princípe, oragnizátori vo svojom voľnom čase pracujú pre Trojsten bez nároku na odmenu." >}}
         {{< landing/icon-list-item icon="mdi:flask"
-            title="Múdri ľudia a nezávislé osobnosti?"
+            title="Múdri ľudia a výnimočné osobnosti"
             text="Sme budúci vedci, programátori a podnikatelia, ktorý budú posúvať Slovensko a svet dopredu." >}}
         {{< landing/icon-list-item icon="mdi:account-tie"
             title="Výsledky."
@@ -36,7 +36,7 @@ menu:
 {{< landing/left-image
     title="Vzdelávanie mládeže"
     text="Popularizujeme matematiku, fyziku a informatiku. Svoje znalosti posúvame ďalšej generácií a rozvíjame zručnosti tých najlepších. Niektoré naše projekty sme expandovali aj za hranice Slovenska."
-    image="https://ltt.trojsten.sk/graphics/ltt2022-2.jpg"
+    image="vzdelavanie-3.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:creation"
@@ -44,7 +44,7 @@ menu:
             text="Veríme, že prírodné vedy sa dajú učiť aj kreatívnými a zábavnými spôsobmi." >}}
         {{< landing/icon-list-item icon="mdi:magnify-expand"
             title="Ideme do hĺbky."
-            text="Snažíme sa ukázať, že sa dá veciam rozumieť do hĺbky. Chápať nielen, ako sa príklad rieši, ale aj prečo sa tak rieši." >}}
+            text="Snažíme sa ukázať, že sa dá veciam rozumieť do hĺbky. Nielen rozumieť, ako sa úloha rieši, ale aj prečo sa tak rieši." >}}
         {{< landing/icon-list-item icon="mdi:fast-forward"
             title="Napredujeme."
             text="Stále vymýšľame nové príklady, hry, či aktivity, ktoré by sme mohli organizovať." >}}
