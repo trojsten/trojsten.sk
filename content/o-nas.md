@@ -13,7 +13,7 @@ menu:
 
 # Kto sme?
 
-![TODO](https://ltt.trojsten.sk/graphics/ltt2022-2.jpg)
+![TODO](/images/spolocna-1b.jpg)
 
 Trojsten je občianske združenie, ktoré organizuje aktivity v matematike, fyzike a informatike pre študentov
 základných a stredných škôl. Združenie vzniklo v roku 1994, avšak história našich korešpondenčných seminárov siaha
