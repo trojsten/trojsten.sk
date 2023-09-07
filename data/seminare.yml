@@ -1,13 +1,13 @@
 ---
 - name: Korešpondenčný seminár z programovania
-  image: akademia.jpg
+  image: ksp-spolocna.jpg
   link: https://ksp.sk/
   description: |
     Súťaž v riešení algoritmických úloh. KSP zlepší tvoje algoritmické myslenie aj programátorské zručnosti. Riešiš 5 úloh
     podľa tvojej úrovne znalostí. Riešenie obvykle pozostáva z funkčného programu a textového popisu tvojho programu.
 
 - name: Fyzikálny korešpondenčný seminár
-  image: akademia.jpg
+  image: fks-spolocna.jpg
   link: https://fks.sk/
   description: |
     Fyzikálny korešpondenčný seminár je súťaž v riešení netradičných fyzikálnych problémov.

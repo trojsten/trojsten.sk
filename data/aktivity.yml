@@ -8,7 +8,7 @@
     šifry je objaviť tento postup, teda objaviť spôsob akým je ukryté heslo. Súťaž je určená primárne pre stredoškolákov,
     ale zapojiť sa môže ktokoľvek.
 - name: Tímové súťaže Náboj
-  image: akademia.jpg
+  image: naboj-2.jpg
   homepage: true
   link: https://naboj.org/
   description: |
@@ -32,7 +32,7 @@
     stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného. Okrem odborného programu na teba čaká
     aj organizovaný voľnočasový program.
 - name: Letný Tábor Trojstenu
-  image: akademia.jpg
+  image: ltt-spolocna.jpg
   summer: true
   link: https://ltt.trojsten.sk/
   description: |
