@@ -22,10 +22,10 @@ menu:
             text="Z bývalých riešiteľov sa stávajú organizátori, vďaka čomu komunita Trojstenu funguje už vyše 30 rokov." >}}
         {{< landing/icon-list-item icon="mdi:cash-off"
             title="Dobrovoľníctvo."
-            text="Trojsten stavia na dobrovoľníckom princípe, oragnizátori vo svojom voľnom čase pracujú pre Trojsten bez nároku na odmenu." >}}
+            text="Trojsten stavia na dobrovoľníckom princípe, organizátori vo svojom voľnom čase pracujú pre Trojsten bez nároku na odmenu." >}}
         {{< landing/icon-list-item icon="mdi:flask"
-            title="Múdri ľudia a výnimočné osobnosti"
-            text="Sme budúci vedci, programátori a podnikatelia, ktorý budú posúvať Slovensko a svet dopredu." >}}
+            title="Múdri ľudia a výnimočné osobnosti."
+            text="Sme budúci vedci, programátori a podnikatelia, ktorí budú posúvať Slovensko a svet dopredu." >}}
         {{< landing/icon-list-item icon="mdi:account-tie"
             title="Výsledky."
             text="Mnoho našich bývalých riešiteľov študuje na popredných univerzitách, zakladá firmy alebo pôsobí vo veľkých korporáciach." >}}
@@ -35,19 +35,19 @@ menu:
 
 {{< landing/left-image
     title="Vzdelávanie mládeže"
-    text="Popularizujeme matematiku, fyziku a informatiku. Svoje znalosti posúvame ďalšej generácií a rozvíjame zručnosti tých najlepších. Niektoré naše projekty sme expandovali aj za hranice Slovenska."
+    text="Popularizujeme matematiku, fyziku a informatiku. Svoje znalosti posúvame ďalšej generácii a rozvíjame zručnosti tých najlepších. Niektoré naše projekty sme expandovali aj za hranice Slovenska."
     image="vzdelavanie-3.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon="mdi:creation"
             title="Kreatívny prístup."
-            text="Veríme, že prírodné vedy sa dajú učiť aj kreatívnými a zábavnými spôsobmi." >}}
+            text="Veríme, že prírodné vedy sa dajú učiť aj kreatívnymi a zábavnými spôsobmi." >}}
         {{< landing/icon-list-item icon="mdi:magnify-expand"
             title="Ideme do hĺbky."
             text="Snažíme sa ukázať, že sa dá veciam rozumieť do hĺbky. Nielen rozumieť, ako sa úloha rieši, ale aj prečo sa tak rieši." >}}
         {{< landing/icon-list-item icon="mdi:fast-forward"
             title="Napredujeme."
-            text="Stále vymýšľame nové príklady, hry, či aktivity, ktoré by sme mohli organizovať." >}}
+            text="Stále vymýšľame nové úlohy, hry, či aktivity, ktoré by sme mohli organizovať." >}}
         {{< landing/icon-list-item icon="mdi:door-open"
             title="Dostupnosť."
             text="Snažíme sa naše aktivity robiť čo najdostupnejšie pre všetkých bez ohľadu na prostredie, z akého pochádzajú." >}}
@@ -62,16 +62,16 @@ menu:
         {{< landing/icon-grid-item icon="mdi:percent"
             title="2% z daní"
             cta_link="/dve-percenta/" cta_text="Prispieť 2%" >}}
-        Trojsten môžete podporiť vašimi 2% z daní. Takto získané financie použijeme na pokrytie časti nákladov na organizáciu 
-        sústredení.
+        Trojsten môžete podporiť vašimi 2% z daní. 
+        Takto získané financie použijeme na pokrytie časti nákladov spojených s organizáciou sústredení.
 
-        Aj vďaka vašim 2% môžeme aj naďalej organizovať akcie pre tisíce základoškolákov a stredoškolákov. 
+        Aj vďaka vašim 2% môžeme naďalej organizovať akcie pre tisíce základoškolákov a stredoškolákov. 
         {{</ landing/icon-grid-item >}}
 
         {{< landing/icon-grid-item icon="mdi:repeat"
             title="Pravidelná podpora"
             cta_link="https://trojsten.darujme.sk/619/" cta_text="Prispieť cez Darujme.sk" >}}
-        Môžete nás podporiť jednorázovo alebo aj pravidelne darom cez portál Darujme.sk, alebo priamo na náš účet
+        Môžete nás podporiť jednorázovo alebo aj pravidelne darom cez portál Darujme.sk alebo priamo na náš účet
         vami určenou sumou peňazí.
 
         **IBAN:** SK76 1100 0000 0026 2500 7316 \
