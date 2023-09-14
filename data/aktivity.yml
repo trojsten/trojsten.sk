@@ -27,7 +27,7 @@
 - name: Letné školy Trojstenu
   image: letna-skola-4.jpg
   summer: true
-  link: https://akademia.trojsten.sk/
+  link: /letna-skola/
   description: |
     Chceš sa posunúť míľovými krokmi vpred vo svete fyziky, matematiky či informatiky? Letná škola je výborný spôsob ako
     stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného.
