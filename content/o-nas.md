@@ -68,6 +68,39 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
     {{</ landing/icon-grid >}}
 {{</ container >}}
 
+{{< container class="mt-6" >}}
+    {{< landing/icon-grid >}}
+        {{< landing/icon-grid-item icon="mdi:file-document-multiple"
+            title="Výročné správy" >}}
+        - __<u>[Výročná správa za rok 2019 (pdf)](/images/vyrocne-spravy/trojsten_vs_19.jpg)</u>__
+        - __<u>[Výročná správa za rok 2018 (pdf)](/images/vyrocne-spravy/trojsten_vs_18.jpg)</u>__
+        - __<u>[Výročná správa za rok 2017 (pdf)](/images/vyrocne-spravy/trojsten_vs_17.jpg)</u>__
+        - __<u>[Výročná správa za rok 2016 (pdf)](/images/vyrocne-spravy/trojsten_vs_16.jpg)</u>__
+        - __<u>[Výročná správa za rok 2015 (pdf)](/images/vyrocne-spravy/trojsten_vs_15.jpg)</u>__
+        - __<u>[Výročná správa za rok 2014 (pdf)](/images/vyrocne-spravy/trojsten_vs_14.jpg)</u>__
+        - __<u>[Výročná správa za rok 2013 (pdf)](/images/vyrocne-spravy/trojsten_vs_13.jpg)</u>__
+        {{</ landing/icon-grid-item >}}
+    
+        {{< landing/icon-grid-item icon="mdi:file-document-multiple"
+            title="Stanovy" >}}
+        Stanovy občianskeho združenia Trojsten môžete nájsť __<u>[tu](https://www.trojsten.sk/wp-content/uploads/2016/09/stanovy.pdf)</u>__.
+
+        Občianske združenie Trojsten bolo zaregistrované na Ministerstve vnútra SR
+        dňa 10. mája 1994 pod registračným číslom VVS/1-900/90-9640.
+        {{</ landing/icon-grid-item >}}
+    
+        {{< landing/icon-grid-item icon="mdi:pencil-ruler"
+            title="Press kit" >}}
+        - __<u>[Dizajn manuál Trojstenu (pdf)](#)</u>__
+        - __<u>[Logo Trojstenu (pdf)](#)</u>__
+        - __<u>[Logo Trojstenu (ai)](#)</u>__
+        - __<u>[Logá akcií Trojstenu (pdf)](#)</u>__
+        - __<u>[Logá akcií Trojstenu (ai)](#)</u>__
+        {{</ landing/icon-grid-item >}}
+    
+    {{</ landing/icon-grid >}}
+{{</ container >}}
+
 {{< prose class="mt-10" >}}
 ## Štatutárni zástupci
 {{</ prose >}}

@@ -23,16 +23,16 @@ menu:
 {{< landing/right-image
     title="Čo je Letná škola Trojstenu?"
     text="Letná škola Trojstenu je výborný spôsob ako sa aj v lete naučiť niečo nové a zaujímavé. Má tri časti – programovaciu, fyzikálnu a matematickú. Jej cieľom je posúnúť Ťa míľovými krokmi dopredu. Je to výborný spôsob ako stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného. Okrem odborného programu na Teba čaká aj organizovaný voľnočasový program."
-    image="komunita.jpg"
+    image="aktivity/letna-skola-4.jpg"
 >}}
     {{< landing/icon-list >}}
-        {{< landing/icon-list-item icon="mdi:calendar-month"
+        {{< landing/icon-list-item icon="mdi:human-male-board"
             title="Matematika, fyzika a programovanie."
             text="Naučíš sa veľa nového z matematiky, fyziky či programovania. Zaujímavou formou sa dostaneš ďaleko za hranice učiva strednej školy. Pripravené sú pre teba prednášky, či si začiatočník, alebo pokročilý." >}}
-        {{< landing/icon-list-item icon="mdi:cash-off"
+        {{< landing/icon-list-item icon="mdi:lead-pencil"
             title="Zručnosti a rozhľad."
             text="Okrem vedomostí si ceníme aj široký rozhľad a soft skills. Preto má poobedný program širší záber." >}}
-        {{< landing/icon-list-item icon="mdi:flask"
+        {{< landing/icon-list-item icon="mdi:emoticon-happy"
             title="Ľudia a voľný čas."
             text="Spoznáš kopec ľudí s podobnými záujmami, s ktorými môžeš nadviazať priateľstvá. Tiež stretneš starších účastníkov a organizátorov, ktorí Ti môžu odovzdať svoje skúsenosti. K dispozícii budeš mať množstvo príležitostí, ako sa s nimi spoznať a stráviť voľný čas." >}}
     {{</ landing/icon-list >}}
@@ -57,7 +57,7 @@ Pre všetkých študentov stredných škôl (1. – 4. ročník) so záujmom o m
 {{< landing/left-image
     title="Typický deň na Letnej škole"
     text=""
-    image="vzdelavanie-3.jpg"
+    image="aktivity/letna-skola-1.jpg"
 >}}
     {{< landing/icon-list >}}
         {{< landing/icon-list-item icon=""
