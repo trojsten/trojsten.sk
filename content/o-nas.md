@@ -91,11 +91,7 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
     
         {{< landing/icon-grid-item icon="mdi:pencil-ruler"
             title="Press kit" >}}
-        - __<u>[Dizajn manuál Trojstenu (pdf)](#)</u>__
-        - __<u>[Logo Trojstenu (pdf)](#)</u>__
-        - __<u>[Logo Trojstenu (ai)](#)</u>__
-        - __<u>[Logá akcií Trojstenu (pdf)](#)</u>__
-        - __<u>[Logá akcií Trojstenu (ai)](#)</u>__
+        - __<u>[Trojsten Brand Guidelines](https://github.com/trojsten/brand)</u>__
         {{</ landing/icon-grid-item >}}
     
     {{</ landing/icon-grid >}}
