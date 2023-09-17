@@ -135,7 +135,7 @@ Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nem�
     {{< grid/image 
         title="Letná škola fyziky"
         image="aktivity/fks-1.jpg"
-        link="https://fks.sk/ls/"
+        href="https://fks.sk/ls/"
     >}}
         Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
         Poobede zas praktické programovanie či spracovanie experimentálnych dát.
@@ -143,7 +143,7 @@ Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nem�
     {{< grid/image 
         title="Letná škola matematiky"
         image="aktivity/kms-1.jpg"
-        link="https://kms.sk/"
+        href="https://kms.sk/"
     >}}
         Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
