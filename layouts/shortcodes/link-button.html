@@ -1,0 +1,9 @@
+<a href="{{ .Get "url" | safeURL }}" class="rounded-md px-3.5 py-2.5 text-sm font-semibold text-gray-900 hover:bg-gray-100 inline-flex items-center gap-2">
+    {{ if (.Get "icon-left") }}
+    <span class="iconify w-4 h-4" {{ printf "data-icon=%q" (.Get "icon-left") | safeHTMLAttr }}></span>
+    {{ end }}
+    {{ .Get "text" }}
+    {{ if (.Get "icon-right") }}
+    <span class="iconify w-4 h-4" {{ printf "data-icon=%q" (.Get "icon-right") | safeHTMLAttr }}></span>
+    {{ end }}
+</a>
