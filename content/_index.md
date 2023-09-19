@@ -77,7 +77,8 @@ params:
         {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:heart"
             title="Komunita" >}}
-        Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac nie je hanba, ale česť. Sústredenia, na ktorých zažijete bláznivé aktivity ako nikde inde a kde vznikajú priateľstvá na celý život. Dodávame sebavedomie introvertnejším a nútime ich vystúpiť mimo našu komfortnú zónu.
+        Vytvárame veľkú a pevnú komunitu nadšených mladých ľudí, v ktorej vedieť viac nie je hanba, ale česť.
+        Vďaka sústredeniam zažiješ bláznivé aktivity ako nikde inde a získaš priateľstvá na celý život.
         {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:emoticon-happy"
             title="Zábava" >}}
