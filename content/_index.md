@@ -82,7 +82,7 @@ params:
         {{</ landing/icon-grid-item >}}
         {{< landing/icon-grid-item icon="mdi:emoticon-happy"
             title="Zábava" >}}
-        Nehanbíme sa za to, akí sme. Veríme, že prírodné vedy a matematika sa dajú vyučovať aj zábavnou a kreatívnou cestou v neformálnej atmosfére. A pri tom všetkom sa dá aj zabaviť! Vzájomné súťaženie nás posúva vpred.
+        Nehanbíme sa za to, akí sme. Veríme, že prírodné vedy sa dajú vyučovať aj zábavnou a kreatívnou cestou v neformálnej atmosfére. A pri tom všetkom sa dá aj zabaviť! Vzájomné súťaženie nás posúva vpred.
         {{</ landing/icon-grid-item >}}
     {{</ landing/icon-grid >}}
 {{</ landing/simple-section >}}

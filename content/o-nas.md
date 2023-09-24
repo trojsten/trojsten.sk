@@ -16,10 +16,10 @@ menu:
 ![TODO](/images/spolocna-1b.jpg)
 
 Trojsten je občianske združenie, ktoré organizuje aktivity v matematike, fyzike a informatike pre študentov
-základných a stredných škôl. Združenie vzniklo v roku 1994, avšak história našich korešpondenčných seminárov siaha
-až do 80. rokov minulého storočia. Tradícia korešpondenčných seminárov v strednej Európe sa datuje už od roku 1894,
+základných a stredných škôl. Tradícia korešpondenčných seminárov v strednej Európe sa datuje už od roku 1894,
 kedy bol v Maďarsku založený matematický časopis pre stredoškolákov s príkladmi [KöMaL](https://www.komal.hu/),
-ktorého riešiteľmi boli neskorší nositelia Nobelových cien. Trojsten túto tradíciu udržuje aj naďalej v dnešnej, modernej dobe.
+ktorého riešiteľmi boli neskorší nositelia Nobelových cien. História našich korešpondenčných seminárov siaha
+až do 80. rokov minulého storočia a združenie vzniklo v roku 1994.
 
 V súčastnosti máme stovky riešiteľov korešpondenčných seminárov, ktorí po ukončení štúdia na strednej škole pokračujú
 v prírodovednom smere, ktorému sa venovali práve v našich seminároch. Mnohí z nich študujú na najlepších svetových univerzitách
