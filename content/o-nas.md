@@ -74,13 +74,13 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
             title="Výročné správy" >}}
         Výročné správy za jednotlivé roky si môžete stiahnuť tu:
         
-        __<u>[2019](/images/vyrocne-spravy/trojsten_vs_19.jpg)</u>__, 
-        __<u>[2018](/images/vyrocne-spravy/trojsten_vs_18.jpg)</u>__, 
-        __<u>[2017](/images/vyrocne-spravy/trojsten_vs_17.jpg)</u>__, 
-        __<u>[2016](/images/vyrocne-spravy/trojsten_vs_16.jpg)</u>__, 
-        __<u>[2015](/images/vyrocne-spravy/trojsten_vs_15.jpg)</u>__, 
-        __<u>[2014](/images/vyrocne-spravy/trojsten_vs_14.jpg)</u>__, 
-        __<u>[2013](/images/vyrocne-spravy/trojsten_vs_13.jpg)</u>__
+        __<u>[2019](/images/vyrocne-spravy/trojsten_vs_19.pdf)</u>__, 
+        __<u>[2018](/images/vyrocne-spravy/trojsten_vs_18.pdf)</u>__, 
+        __<u>[2017](/images/vyrocne-spravy/trojsten_vs_17.pdf)</u>__, 
+        __<u>[2016](/images/vyrocne-spravy/trojsten_vs_16.pdf)</u>__, 
+        __<u>[2015](/images/vyrocne-spravy/trojsten_vs_15.pdf)</u>__, 
+        __<u>[2014](/images/vyrocne-spravy/trojsten_vs_14.pdf)</u>__, 
+        __<u>[2013](/images/vyrocne-spravy/trojsten_vs_13.pdf)</u>__
         {{</ landing/icon-grid-item >}}
     
         {{< landing/icon-grid-item icon="mdi:file-document-multiple"
