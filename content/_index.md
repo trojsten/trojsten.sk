@@ -86,3 +86,5 @@ params:
         {{</ landing/icon-grid-item >}}
     {{</ landing/icon-grid >}}
 {{</ landing/simple-section >}}
+
+{{< landing/newsletter >}}
