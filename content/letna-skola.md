@@ -11,7 +11,7 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8.2024, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8.20244, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="https://forms.gle/7qis8ZfnoAiXgL357" class="btn">
         Prihláška
@@ -78,7 +78,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/"
     >}}
-        <center><b>22.7 - 2.8.</b></center><br>
+        <div style="text-align:center"><b>22.7 - 2.8.</b></div><br>
 		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
