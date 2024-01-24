@@ -58,7 +58,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
-        <b>8.7. - 19.7.</b><br>
+        <center><b>8.7. - 19.7.</b></center><br>
 		Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
         a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
         nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
@@ -69,7 +69,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/fks-1.jpg"
         href="https://fks.sk/ls/"
     >}}
-        <b>15.7. - 26.7.</b><br>
+        <center><b>15.7. - 26.7.</b></center><br>
 		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
         Poobede zas praktické programovanie či spracovanie experimentálnych dát.
     {{</ grid/image >}}
@@ -78,7 +78,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/"
     >}}
-        <b>22.7 - 2.8.</b><br>
+        <center><b>22.7 - 2.8.</b></center><br>
 		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
