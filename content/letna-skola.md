@@ -11,7 +11,7 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8.20244, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8.2024, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="https://forms.gle/7qis8ZfnoAiXgL357" class="btn">
         Prihláška
@@ -54,34 +54,31 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
 
 {{< grid/grid >}}
     {{< grid/image 
-        title="Letná škola programovania"
+        title="Letná škola programovania - 8.7. - 19.7."
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
-        <center><b>8.7. - 19.7.</b></center><br>
 		Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
         a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
         nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
         lebo si už skúsený/á programátor/ka.
     {{</ grid/image >}}
     {{< grid/image 
-        title="Letná škola fyziky"
-        image="aktivity/fks-1.jpg"
-        href="https://fks.sk/ls/"
-    >}}
-        <center><b>15.7. - 26.7.</b></center><br>
-		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
-        Poobede zas praktické programovanie či spracovanie experimentálnych dát.
-    {{</ grid/image >}}
-    {{< grid/image 
-        title="Letná škola matematiky"
+        title="Letná škola matematiky - 15.7. - 26.7."
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/"
     >}}
-        <div style="text-align:center"><b>22.7 - 2.8.</b></div><br>
 		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
+    {{</ grid/image >}}
+    {{< grid/image 
+        title="Letná škola fyziky - 22.7 - 2.8."
+        image="aktivity/fks-1.jpg"
+        href="https://fks.sk/ls/"
+    >}}
+		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
+        Poobede zas praktické programovanie či spracovanie experimentálnych dát.
     {{</ grid/image >}}
 {{</ grid/grid >}}
 
