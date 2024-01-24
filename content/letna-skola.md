@@ -11,7 +11,7 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8.2024, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8. 2024, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="https://forms.gle/7qis8ZfnoAiXgL357" class="btn">
         Prihláška
@@ -54,7 +54,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
 
 {{< grid/grid >}}
     {{< grid/image 
-        title="Letná škola programovania - 8.7. - 19.7."
+        title="Letná škola programovania: 8.7. - 19.7."
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
@@ -64,7 +64,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         lebo si už skúsený/á programátor/ka.
     {{</ grid/image >}}
     {{< grid/image 
-        title="Letná škola matematiky - 15.7. - 26.7."
+        title="Letná škola matematiky: 15.7. - 26.7."
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/"
     >}}
@@ -73,7 +73,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
     {{</ grid/image >}}
     {{< grid/image 
-        title="Letná škola fyziky - 22.7 - 2.8."
+        title="Letná škola fyziky: 22.7 - 2.8."
         image="aktivity/fks-1.jpg"
         href="https://fks.sk/ls/"
     >}}
