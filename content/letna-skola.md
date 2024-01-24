@@ -11,9 +11,9 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="10.7. – 28.7.2023, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8.2023, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
-    <a href="/prihlaska/" class="btn">
+    <a href="https://forms.gle/7qis8ZfnoAiXgL357" class="btn">
         Prihláška
     </a>
 </div>
@@ -40,16 +40,52 @@ menu:
 
 {{< prose >}}
 
-# Letná škola
+# Kedy, kde a pre koho?
 
-Letná škola Trojstenu je výborný spôsob ako sa aj v lete naučiť niečo nové a zaujímavé. Má tri časti – programovaciu, fyzikálnu a matematickú. Jej cieľom je posúnúť Ťa míľovými krokmi dopredu vo svete fyziky, matematiky či informatiky. Program minulých rokov nájdeš na stránkach letných škôl. Je to výborný spôsob ako stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného. Okrem odborného programu na Teba čaká aj organizovaný voľnočasový program.
+Letná škola Trojstenu je 4-týždňová letná škola organizovaná vedúcimi - dobrovoľníkmi korešpondenčných seminárov z matematiky, fyziky a programovania, patriacich pod o.z. Trojsten, v spolupráci s FMFI UK.
 
-Nemusíš sa zúčastniť celej Letnej školy, budeme radi, ak prídeš aj na jej časť. Odborný program bude prebiehať na Fakulte matematiky, fyziky a informatiky UK. Pre mimobratislavských účastníkov bude zabezpečené ubytovanie na vysokoškolskom internáte v Mlynskej doline (Šturák).
+Je určená pre všetkých študentov stredných škôl (1. – 4. ročník) so záujmom o matematiku, fyziku a informatiku. (Programovanie je určené aj žiakom 7. – 9. ročníka ZŠ.)
 
+Odborný program bude prebiehať na Fakulte matematiky, fyziky a informatiky UK a je bezplatný. Ponúkame aj možnosť zakúpenia si obeda a ubytovania na vysokoškolských internátoch v blízkosti.
 
-## Pre koho je Letná škola určená?
+Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčastniť celej Letnej školy. Môžeš si vybrať tú, časť ktorá ťa zaujíma a vyhovuje ti. 
 
-Pre všetkých študentov stredných škôl (1. – 4. ročník) so záujmom o matematiku, fyziku a informatiku. (Programovanie je určené aj žiakom 7. – 9. ročníka ZŠ.)
+{{</ prose >}}
+
+{{< grid/grid >}}
+    {{< grid/image 
+        title="Letná škola programovania"
+        image="aktivity/ksp-1.jpg"
+        href="https://ksp.sk/ls/"
+    >}}
+        8.7. - 19.7.
+		Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
+        a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
+        nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
+        lebo si už skúsený/á programátor/ka.
+    {{</ grid/image >}}
+    {{< grid/image 
+        title="Letná škola fyziky"
+        image="aktivity/fks-1.jpg"
+        href="https://fks.sk/ls/"
+    >}}
+        15.7. - 26.7.
+		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
+        Poobede zas praktické programovanie či spracovanie experimentálnych dát.
+    {{</ grid/image >}}
+    {{< grid/image 
+        title="Letná škola matematiky"
+        image="aktivity/kms-1.jpg"
+        href="https://kms.sk/"
+    >}}
+        22.7 - 2.8.
+		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
+        Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
+        u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
+    {{</ grid/image >}}
+{{</ grid/grid >}}
+
+{{< prose >}}
 
 {{</ prose >}}
 
@@ -65,7 +101,7 @@ Pre všetkých študentov stredných škôl (1. – 4. ročník) so záujmom o m
             text="Doobeda budú prebiehať prednášky študentov matematiky, fyziky a programovania z Bratislavy či zahraničia. Programátorská časť bude väčšinou tvorená spoločným riešením úloh. Na výber budeš mať spomedzi niekoľkých prednášok/úrovní programovania, podľa svojich záujmov a vedomostí." >}}
         {{< landing/icon-list-item icon=""
             title="12:00 – 13:00 → Obed"
-            text="Obedovať bude možné v jedálni na FIIT STU. Cena obedového menu bude 5,50€." >}}
+            text="Obedovať bude možné v jedálni FreeFood. Cena obedového menu bude okolo 6€." >}}
         {{< landing/icon-list-item icon=""
             title="14:00 – 16:30 → Praktické zručnosti, programovanie, workshopy…"
             text="Táto časť bude spoločná pre programátorov, matematikov aj fyzikov. Budete si môcť zmerať sily v náboji, či doplniť praktické skúsenosti so spracovaním dát alebo tvorbou modernej webstránky." >}}
@@ -79,7 +115,6 @@ Pre všetkých študentov stredných škôl (1. – 4. ročník) so záujmom o m
 
 # FAQ
 
-Letná škola Trojstenu je 3-týždňová letná škola organizovaná vedúcimi korešpondenčných seminárov z matematiky, fyziky a programovania, patriacich pod o.z. Trojsten, v spolupráci s FMFI UK.
 
 ## Kedy a kde?
 
@@ -87,11 +122,11 @@ Letná škola Trojstenu je 3-týždňová letná škola organizovaná vedúcimi 
 
 ## Čo ak nie som z okolia Bratislavy a potrebujem ubytovanie?
 
-Ubytovanie bude pravdepodobne zabezpečené v priestoroch vysokoškolského internátu ŠD Mladosť (mapa, stránka). Cena ubytovania je 8 €/noc. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu.
+Ubytovanie bude pravdepodobne zabezpečené v priestoroch vysokoškolského internátu ŠD Mladosť (mapa, stránka). Cenu ubytovania zverejníme, keď bude známa. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
 
 ## Koľko ma to bude stáť?
 
-Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a ubytovanie. Cena obeda bude 5,50 € a cena ubytovania na jednu noc bude 8 €.
+Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a ubytovanie. Cena obeda bude okolo 6 € a cena ubytovania sa môže hýbať okolo 9 €.
 Stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
 Všetci organizátori a lektori robia Letnú školu Trojstenu bez nároku na odmenu, to znamená, že za samotnú účasť nezaplatíš vôbec nič. Inými slovami, za v podstate „výrobné náklady“ ti prinášame špičkových ľudí s kopou vedomostí a know-how, ktorí ťa naučia kopu vedomostí a užitočných, praktických a špecifických zručností.
 
@@ -99,65 +134,25 @@ Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád z�
 
 ## Čo musím urobiť aby som sa mohol/mohla zúčastniť Letnej školy?
 
-Vyplň záväznú prihlášku. Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas (dostaneš mailom po prihlásení) o účasti na letnej škole ktorý nám odovzdáš pri príchode.
+Vyplň prihlášku. Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
+
+Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nemôžeme zabezpečiť neustály dohľad nad každým účastníkom. Veríme, že si dostatočne zodpovedný, aby si zvládol účasť na Letnej škole aj s takouto podmienkou.
 
 ## Do kedy sa môžem prihlásiť?
 
-Prihlásiť sa dá do začiatku tej letnej školy, na ktorú sa chceš prihlásiť (na Letnú školu programovania a fyziky do 10.7.2022, na Letnú školu matematiky do 17.7.2022).
-
-Záujem o ubytovanie však treba nahlásiť v dostatočnom predstihu.
+Prihlásiť alebo zmeniť prihlášku sa dá do 30.6.2024. Záujem o ubytovanie však treba nahlásiť v dostatočnom predstihu.
 
 ## Musím sa zúčastniť celej Letnej školy?
 
 Ak sa nemôžeš zúčastniť celej letnej školy, radi ťa privítame aj na jej časti. Odborný program bude prebiehať naraz z fyziky, matematiky aj programovania, a v každom týždni si môžeš vybrať, či sa zúčastníš a na ktorej časti.
 
-Maj na pamäti, že prednášky môžu na seba naväzovať. Takže Ti odporúčame účasť na čo najsúvislejšej a najdlhšej časti.
-
-## Je ešte niečo dôležité, čo musím vedieť?
-
-Áno, je tu ešte jedna byrokratická záležitosť. Ak ešte nemáš 18 rokov, tak tvoj rodič alebo zákonný zástupca musí vyplniť informovaný súhlas (dostaneš mailom po prihlásení), ktoroým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. ich zodpovednosť.
-
-Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nemôžeme zabezpečiť neustály dohľad nad každým účastníkom. Veríme, že si dostatočne zodpovedný, aby si zvládol účasť na Letnej škole aj s takouto podmienkou.
-
-{{</ prose >}}
-
-{{< grid/grid >}}
-    {{< grid/image 
-        title="Letná škola programovania"
-        image="aktivity/ksp-1.jpg"
-        href="https://ksp.sk/ls/"
-    >}}
-        Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
-        a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
-        nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
-        lebo si už skúsený/á programátor/ka.
-    {{</ grid/image >}}
-    {{< grid/image 
-        title="Letná škola fyziky"
-        image="aktivity/fks-1.jpg"
-        href="https://fks.sk/ls/"
-    >}}
-        Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
-        Poobede zas praktické programovanie či spracovanie experimentálnych dát.
-    {{</ grid/image >}}
-    {{< grid/image 
-        title="Letná škola matematiky"
-        image="aktivity/kms-1.jpg"
-        href="https://kms.sk/"
-    >}}
-        Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
-        Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
-        u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
-    {{</ grid/image >}}
-{{</ grid/grid >}}
-
-{{< prose >}}
+Maj na pamäti, že prednášky môžu na seba naväzovať. Takže Ti odporúčame účasť na čo najsúvislejšej a najdlhšej časti. Taktiež, v prípade zaplnenia kapacity budeme v každom týždni preferovať tých účastníkov, ktorí sa zúčastnia celého týždňa.
 
 # Kontakt
 
 Akékoľvek všeobecné otázky sa môžeš opýtať na letna.skola@trojsten.sk alebo telefonicky:
 
-Adam Zahradník +421 904 632 129
+Daniel Teplan +421 948 850 940
 
 
 Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš napísať aj na:
@@ -171,7 +166,7 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 
 {{<landing/cta
     title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Letná škola Trostenu sa bude konať 10.7. – 28.7.2023 na FMFI UK, Bratislava ."
+    subtitle="Letná škola Trostenu sa bude konať 8.7. – 2.8.2023 na FMFI UK, Bratislava ."
 >}}
     {{<button text="Prihláška" url="/prihlaska/" icon-right="mdi:arrow-right">}}
 {{</landing/cta>}}
