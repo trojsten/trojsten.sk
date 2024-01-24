@@ -11,7 +11,7 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8.2023, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8.2024, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="https://forms.gle/7qis8ZfnoAiXgL357" class="btn">
         Prihláška
@@ -48,7 +48,7 @@ Je určená pre všetkých študentov stredných škôl (1. – 4. ročník) so 
 
 Odborný program bude prebiehať na Fakulte matematiky, fyziky a informatiky UK a je bezplatný. Ponúkame aj možnosť zakúpenia si obeda a ubytovania na vysokoškolských internátoch v blízkosti.
 
-Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčastniť celej Letnej školy. Môžeš si vybrať tú, časť ktorá ťa zaujíma a vyhovuje ti. 
+Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčastniť celej Letnej školy. Môžeš si vybrať tú časť, ktorá ťa zaujíma a vyhovuje ti:
 
 {{</ prose >}}
 
@@ -58,7 +58,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
-        8.7. - 19.7.
+        <b>8.7. - 19.7.</b><br>
 		Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
         a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
         nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
@@ -69,7 +69,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/fks-1.jpg"
         href="https://fks.sk/ls/"
     >}}
-        15.7. - 26.7.
+        <b>15.7. - 26.7.</b><br>
 		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
         Poobede zas praktické programovanie či spracovanie experimentálnych dát.
     {{</ grid/image >}}
@@ -78,7 +78,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/"
     >}}
-        22.7 - 2.8.
+        <b>22.7 - 2.8.</b><br>
 		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
@@ -115,14 +115,10 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
 
 # FAQ
 
-
-## Kedy a kde?
-
-11.7. – 29.7. 2023 (program začína v pondelok, na internáte sa dá ubytovať už v nedeľu- večer pred začiatkom) na pôde Fakulty matematiky, fyziky a informatiky UK v Bratislave (mapa). Je možné zúčastniť sa ktoréhokoľvek týždňa/týždňov Letnej školy osobitne.
-
 ## Čo ak nie som z okolia Bratislavy a potrebujem ubytovanie?
 
 Ubytovanie bude pravdepodobne zabezpečené v priestoroch vysokoškolského internátu ŠD Mladosť (mapa, stránka). Cenu ubytovania zverejníme, keď bude známa. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
+Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej školy. Ubytovanie sa dá objednať separátne na každý týždeň (nedeľa - piatok) a víkend medzi dvoma týždňami Letnej školy (piatok - nedeľa).
 
 ## Koľko ma to bude stáť?
 
@@ -166,7 +162,7 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 
 {{<landing/cta
     title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Letná škola Trostenu sa bude konať 8.7. – 2.8.2023 na FMFI UK, Bratislava ."
+    subtitle="Letná škola Trostenu sa bude konať 8.7. – 2.8.2024 na FMFI UK v Bratislave."
 >}}
     {{<button text="Prihláška" url="/prihlaska/" icon-right="mdi:arrow-right">}}
 {{</landing/cta>}}
