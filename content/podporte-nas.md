@@ -69,9 +69,8 @@ menu:
         {{</ landing/icon-grid-item >}}
 
         {{< landing/icon-grid-item icon="mdi:repeat"
-            title="Pravidelná podpora"
-            cta_link="https://trojsten.darujme.sk/619/" cta_text="Prispieť cez Darujme.sk" >}}
-        Môžete nás podporiť jednorázovo alebo aj pravidelne darom cez portál Darujme.sk alebo priamo na náš účet
+            title="Pravidelná podpora" >}}
+        Môžete nás podporiť jednorázovo alebo aj pravidelne priamo na náš účet
         vami určenou sumou peňazí.
 
         **IBAN:** SK76 1100 0000 0026 2500 7316 \
