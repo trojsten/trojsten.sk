@@ -8,8 +8,13 @@ menu:
 
 {{< landing/hero
     title="Podporte Trojsten!"
-    subtitle="Bez pomoci našich partnerov by sme nemohli plniť naše poslanie vzdelávania mládeže. Pridajte sa medzi nás!" />}}
-
+    subtitle="Bez pomoci našich partnerov by sme nemohli plniť naše poslanie vzdelávania mládeže. Pridajte sa medzi nás!">}}
+    <div class="text-center mt-10">
+    <a href="https://trojsten.sk/dve-percenta/" class="btn">
+        Prispieť 2%
+    </a>
+    </div>
+{{</ landing/hero >}}
 
 {{< landing/right-image
     title="Veľká komunita"
