@@ -85,7 +85,7 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
     
         {{< landing/icon-grid-item icon="mdi:file-document-multiple"
             title="Stanovy" >}}
-        Stanovy občianskeho združenia Trojsten môžete nájsť __<u>[tu](https://www.trojsten.sk/wp-content/uploads/2016/09/stanovy.pdf)</u>__.
+        Stanovy občianskeho združenia Trojsten môžete nájsť __<u>[tu](/stanovy.pdf)</u>__.
 
         Občianske združenie Trojsten bolo zaregistrované na Ministerstve vnútra SR
         dňa 10. mája 1994 pod registračným číslom VVS/1-900/90-9640.
