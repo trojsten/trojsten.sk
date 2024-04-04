@@ -78,9 +78,9 @@ menu:
         Môžete nás podporiť jednorázovo alebo aj pravidelne priamo na náš účet
         vami určenou sumou peňazí.
 
-        **IBAN:** SK76 1100 0000 0026 2500 7316 \
-        **SWIFT:** TATRSKBX \
-        **Názov účtu:** TROJSTEN
+        **IBAN:** SK61 8330 0000 0021 0282 4165 \
+        **SWIFT:** FIOZSKBAXXX \
+        **Názov účtu:** Trojsten
         {{</ landing/icon-grid-item >}}
 
         {{< landing/icon-grid-item icon="mdi:brain"

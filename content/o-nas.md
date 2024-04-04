@@ -57,9 +57,9 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
     
         {{< landing/icon-grid-item icon="mdi:cash-fast"
             title="Bankové spojenie" >}}
-        **IBAN:** SK76&nbsp;1100&nbsp;0000&nbsp;0026&nbsp;2500&nbsp;7316 \
-        **SWIFT:** TATRSKBX \
-        **Názov účtu:** TROJSTEN
+        **IBAN:** SK61 8330 0000 0021 0282 4165 \
+        **SWIFT:** FIOZSKBAXXX \
+        **Názov účtu:** Trojsten
     
         **IČO:** 30815886 \
         **DIČ:** 202 166 21 37
