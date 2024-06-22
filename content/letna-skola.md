@@ -119,8 +119,7 @@ Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej škol
 
 ## Koľko ma to bude stáť?
 
-Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a ubytovanie. Cena obeda bude okolo 6 € a cena ubytovania sa môže hýbať okolo 9 €.
-Stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
+Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania na internáte ŠD Mladosť bude 8 € za noc. Obed sa bude dať kúpiť za najviac 6 €. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
 Všetci organizátori a lektori robia Letnú školu Trojstenu bez nároku na odmenu, to znamená, že za samotnú účasť nezaplatíš vôbec nič. Inými slovami, za v podstate „výrobné náklady“ ti prinášame špičkových ľudí s kopou vedomostí a know-how, ktorí ťa naučia kopu vedomostí a užitočných, praktických a špecifických zručností.
 
 Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád zúčastnil Letnej školy, napíš nám a niečo vymyslíme :).
@@ -133,11 +132,11 @@ Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nem�
 
 ## Do kedy sa môžem prihlásiť?
 
-Prihlásiť alebo zmeniť prihlášku sa dá do 30.6.2024. Záujem o ubytovanie však treba nahlásiť v dostatočnom predstihu.
+Prihlásiť alebo zmeniť prihlášku sa dá do 30.6.2024.
 
 ## Musím sa zúčastniť celej Letnej školy?
 
-Ak sa nemôžeš zúčastniť celej letnej školy, radi ťa privítame aj na jej časti. Odborný program bude prebiehať naraz z fyziky, matematiky aj programovania, a v každom týždni si môžeš vybrať, či sa zúčastníš a na ktorej časti.
+Ak sa nemôžeš alebo nechceš zúčastniť celej letnej školy, radi ťa privítame aj na jej časti. Odborný program bude prebiehať naraz z fyziky, matematiky aj programovania, a v každom týždni si môžeš vybrať, či sa zúčastníš a na ktorej časti.
 
 Maj na pamäti, že prednášky môžu na seba naväzovať. Takže Ti odporúčame účasť na čo najsúvislejšej a najdlhšej časti. Taktiež, v prípade zaplnenia kapacity budeme v každom týždni preferovať tých účastníkov, ktorí sa zúčastnia celého týždňa.
 
