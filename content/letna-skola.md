@@ -132,7 +132,7 @@ Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nem�
 
 ## Do kedy sa môžem prihlásiť?
 
-Prihlásiť alebo zmeniť prihlášku sa dá do 30.6.2024.
+Prihlásiť alebo zmeniť prihlášku sa dá do 2.7.2024.
 
 ## Musím sa zúčastniť celej Letnej školy?
 
