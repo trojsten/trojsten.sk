@@ -98,7 +98,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
             text="Doobeda budú prebiehať prednášky študentov matematiky, fyziky a programovania z Bratislavy či zahraničia. Programátorská časť bude väčšinou tvorená spoločným riešením úloh. Na výber budeš mať spomedzi niekoľkých prednášok/úrovní programovania, podľa svojich záujmov a vedomostí." >}}
         {{< landing/icon-list-item icon=""
             title="12:00 – 13:00 → Obed"
-            text="Obedovať bude možné v jedálni FreeFood. Cena obedového menu bude okolo 6€." >}}
+            text="Obedovať bude možné v jedálni FreeFood. Cena lístka na obedové menu je 6€." >}}
         {{< landing/icon-list-item icon=""
             title="14:00 – 16:30 → Praktické zručnosti, programovanie, workshopy…"
             text="Táto časť bude spoločná pre programátorov, matematikov aj fyzikov. Budete si môcť zmerať sily v náboji, či doplniť praktické skúsenosti so spracovaním dát alebo tvorbou modernej webstránky." >}}
