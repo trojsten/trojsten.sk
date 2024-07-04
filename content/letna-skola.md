@@ -13,7 +13,7 @@ menu:
     title="Letná škola Trojstenu"
     subtitle="8.7. – 2.8. 2024, FMFI UK, Bratislava, Prihlasovanie sa skončilo" >}}
 <div class="text-center mt-10">
-    <a href="trojsten.sk/lsinfo/" class="btn">
+    <a href="/lsinfo/" class="btn">
         Aktuálne informácie
     </a>
 </div>
