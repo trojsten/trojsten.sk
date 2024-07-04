@@ -11,10 +11,10 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8. 2024, FMFI UK, Bratislava" >}}
+    subtitle="8.7. – 2.8. 2024, FMFI UK, Bratislava, Prihlasovanie sa skončilo" >}}
 <div class="text-center mt-10">
-    <a href="trojsten.sk/letna-skola/" class="btn">
-        Prihlasovanie sa skončilo
+    <a href="trojsten.sk/lsinfo/" class="btn">
+        Aktuálne informácie
     </a>
 </div>
 {{</ landing/hero >}}
