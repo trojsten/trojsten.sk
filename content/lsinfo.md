@@ -8,36 +8,42 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
+## Aktuálne
+
+Exkurzia do Mochoviec 26.7.: [Prihlasovanie](https://forms.gle/1v79eUf3kaBETqxYA) do 8.7.
+
 ## Programy LŠ
 
 Programy jednotlivých častí Letnej školy nájdete tu:
 
 - Programovanie [ksp.sk/ls](https://ksp.sk/ls)
+- Matematika [kms.sk/letnaskola](https://kms.sk/ls/)
 - Fyzika [fks.sk/ls](https://fks.sk/ls)
-- Matematika [kms.sk/letnaskola](https://kms.sk/letnaskola/)
+- [Voľnočasový program](https://docs.google.com/spreadsheets/d/18XYfAeM7mUTO1YaX7WniFDmgFqV_ACmQxBHcIZYFfHk)
 
-## Internet
+## Voľný čas
+
+Bude sa konať podľa rozpisu každý deň od 16:00 - 16:30.
+Pre aktuálne informácie a diskusiu sa pridajte na [discordový server letnej školy](https://discord.gg/q5kTuDpZbn)
+V prípade núdze môžete volať Dankovi (viď. kontakty).
+
+## Wifi
 
 V priestoroch fakulty je dostupná wifi. Názov siete: **LETNE TABORY** Heslo: **krasneleto24**
-
-## Obedy
-
-Stravovanie na Letnej škole bude prebiehať v jedálni [FAYNFOOD](http://freefood.sk) na Matfyze. Obedové menu bude stáť 6€. [Jedálny lístok na prvý týždeň](https://drive.google.com/file/d/1kG5Nt_h1iDui6u9Urdw2tZ-EIdJFoMX6/view?usp=sharing)
-
-Za obedy sa platí vopred na náš účet. Ak si v prihláške zaklikol/zaklikla, že sa chceš stravovať na LŠ, mailom sme ti poslali informácie ku platbe. Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
-Ak ti informácie o platbe neprišli, kontaktuj nás.
-
-## Voľnočasový program
-
-Po odbornom programe bude každý deň možnosť zúčastniť sa spoločných voľnočasových aktivít. Zvyčajne bude možný spoločný odchod z vestibulu FMFI okolo 16:30. Celý program bude čoskoro zverejnený, a v priebehu LŠ môžu nastať drobné zmeny.
 
 ## Informovaný súhlas
 
 Ak si ešte nemal/nemala 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti prišiel mailom, a nájdeš ho aj na [tomto odkaze](https://drive.google.com/file/d/1f00JGVcAR5Q_ZJ1kExzKG_vE3Oo6SdsU/view?usp=drive_link).
 
+## Obedy
+
+Stravovanie na Letnej škole bude prebiehať v jedálni Faynfood na Matfyze. Lístok na obedové menu stojí 6€. [Jedálny lístok na prvý týždeň](https://drive.google.com/file/d/1kG5Nt_h1iDui6u9Urdw2tZ-EIdJFoMX6/view?usp=sharing). Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
+
+V prípade, že ešte nemáš objednané a zaplatené obedové lístky, ale máš o obedy záujem, kontaktuj nás a vyriešime.
+
 ## Informácie pre ubytovaných
 
-Ubytovanie bude poskytovať ŠD Mladosť ([mapa](https://en.mapy.cz/s/hutacesuse)). Ak si sa prihlásil/-a na ubytovanie, e-mailom sme ti poslali informácie o platbe. **Odubytovanie je nutné ráno, ešte pred  prednáškami.** Bližšie informácie a kontakty sú dostupné v e-maili ohľadom ubytovania.
+Ubytovanie bude poskytovať ŠD Mladosť ([mapa](https://en.mapy.cz/s/hutacesuse)). Ak si sa prihlásil/-a na ubytovanie, e-mailom sme ti poslali informácie o platbe. **Odubytovanie na konci je nutné ráno, ešte pred  prednáškami.** Bližšie informácie a kontakty sú dostupné v e-maili ohľadom ubytovania.
 
 ## Kontakty
 
@@ -47,7 +53,12 @@ Ubytovanie bude poskytovať ŠD Mladosť ([mapa](https://en.mapy.cz/s/hutacesuse
 - Fyzika -  lucia.gelenekyova@trojsten.sk
 - Matematika - barbora.javorova@trojsten.sk
 
-### Koordinačný tím
+### Koordinačný tím, voľnočasový program
 
-- letna.skola@trojsten.sk
-- tel. 0948 850 940 (Daniel Teplan)
+Mail: letna.skola@trojsten.sk
+Tel č. na Danka: 0948 850 940 (Daniel Teplan)
+
+### Organizačné
+
+Ubytovanie: Kontakty na jednotlivé týždne z mailu o ubytovaní alebo lukas.gaborik@trojsten.sk
+Platby, financie: adam.zahradnik@trojsten.sk
