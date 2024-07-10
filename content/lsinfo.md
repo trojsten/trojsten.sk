@@ -10,11 +10,11 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Aktuálne
 
-Exkurzia do Mochoviec 26.7.: [Prihlasovanie](https://forms.gle/1v79eUf3kaBETqxYA) do 8.7.
+Zmena voľnočasového programu: Frisbee bude vo štvrtok a Logboj v piatok (viac v programe)
+
+Exkurzia do Mochoviec 26.7.: [Prihlasovanie](https://forms.gle/1v79eUf3kaBETqxYA)
 
 Prihláste sa na [Prázdninovú šifrovačku Trojstenu](https://susi.trojsten.sk/pst/) do 10.7.
-
-Hlasovanie o filme: Pribudne
 
 ## Programy LŠ
 
