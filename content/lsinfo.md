@@ -10,11 +10,7 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Aktuálne
 
-Zmena voľnočasového programu: Frisbee bude vo štvrtok a Logboj v piatok (viac v programe)
 
-Exkurzia do Mochoviec 26.7.: [Prihlasovanie](https://forms.gle/1v79eUf3kaBETqxYA)
-
-Prihláste sa na [Prázdninovú šifrovačku Trojstenu](https://susi.trojsten.sk/pst/) do 10.7.
 
 ## Programy LŠ
 
@@ -41,7 +37,7 @@ Ak si ešte nemal/nemala 18 rokov, nezabudni na Letnú školu priniesť rodičom
 
 ## Obedy
 
-Stravovanie na Letnej škole bude prebiehať v jedálni Faynfood na Matfyze. Lístok na obedové menu stojí 6€. [Jedálny lístok na prvý týždeň](https://drive.google.com/file/d/1kG5Nt_h1iDui6u9Urdw2tZ-EIdJFoMX6/view?usp=sharing). Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
+Stravovanie na Letnej škole bude prebiehať v jedálni Faynfood na Matfyze. Lístok na obedové menu stojí 6€. [Jedálny lístok na prvý týždeň](https://docs.google.com/spreadsheets/d/1aXOSdcIlfkZpOzUJH71VQnKYMkEu4ynE/edit?usp=sharing&ouid=118357502952176922546&rtpof=true&sd=true). Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
 
 V prípade, že ešte nemáš objednané a zaplatené obedové lístky, ale máš o obedy záujem, kontaktuj nás a vyriešime.
 
