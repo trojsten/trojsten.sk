@@ -10,6 +10,8 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Aktuálne
 
+Prihlasovanie na člnkovanie: [formulár](https://forms.gle/5Esgmmzk5kt94ffc6)
+Prihlasovanie na laser tag: pribudne
 
 
 ## Programy LŠ
