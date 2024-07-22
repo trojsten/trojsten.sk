@@ -10,10 +10,6 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Aktuálne
 
-Prihlasovanie na člnkovanie: [formulár](https://forms.gle/5Esgmmzk5kt94ffc6)
-Prihlasovanie na laser tag: pribudne
-
-
 ## Programy LŠ
 
 Programy jednotlivých častí Letnej školy nájdete tu:
@@ -39,7 +35,7 @@ Ak si ešte nemal/nemala 18 rokov, nezabudni na Letnú školu priniesť rodičom
 
 ## Obedy
 
-Stravovanie na Letnej škole bude prebiehať v jedálni Faynfood na Matfyze. Lístok na obedové menu stojí 6€. [Jedálny lístok na prvý týždeň](https://docs.google.com/spreadsheets/d/1aXOSdcIlfkZpOzUJH71VQnKYMkEu4ynE/edit?usp=sharing&ouid=118357502952176922546&rtpof=true&sd=true). Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
+Stravovanie na Letnej škole bude prebiehať v jedálni Faynfood na Matfyze. Lístok na obedové menu stojí 6€. [Jedálny lístok na tretí týždeň](https://docs.google.com/spreadsheets/d/112UPPAE6GjGef55EPmjgMTRWg8X8Bu8_/edit?usp=sharing&ouid=118357502952176922546&rtpof=true&sd=true). Lístky si bude možné vyzdvihnúť vždy v pondelok ráno vo vestibule, alebo u vedúcich v miestnosti T2 počas týždňa (miestnosť oproti prednáškovým miestnostiam).
 
 V prípade, že ešte nemáš objednané a zaplatené obedové lístky, ale máš o obedy záujem, kontaktuj nás a vyriešime.
 
