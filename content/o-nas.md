@@ -50,7 +50,7 @@ Chceme, aby mal každý študent šancu dostať sa k našim aktivitám bez ohľa
     
         {{< landing/icon-grid-item icon="mdi:postage-stamp"
             title="Korešpondenčná adresa" >}}
-        Trojsten o.z. \
+        Trojsten o. z. \
         FMFI UK, Mlynská dolina \
         842 48 Bratislava
         {{</ landing/icon-grid-item >}}
