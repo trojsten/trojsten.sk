@@ -11,9 +11,12 @@
 - name: Fakulta matematiky, fyziky a informatiky UK
   logo: fmfi.svg
   link: https://fmph.uniba.sk/
-- name: Whitestein Technologies
-  logo: whitestein.png
-  link: https://whitestein.com/
-- name: DELL Technologies
-  logo: dell.svg
-  link: https://dell.com/
+- name: Wincent
+  logo: wincent.png
+  link: https://www.wincent.com/about
+# - name: Whitestein Technologies
+#   logo: whitestein.png
+#   link: https://whitestein.com/
+# - name: DELL Technologies
+#   logo: dell.svg
+#   link: https://dell.com/
