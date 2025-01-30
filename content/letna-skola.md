@@ -11,10 +11,16 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="8.7. – 2.8. 2024, FMFI UK, Bratislava, Prihlasovanie sa skončilo" >}}
+    subtitle="7.7. – 1.8. 2024, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="/lsinfo/" class="btn">
         Aktuálne informácie
+    </a>
+</div>
+
+<div class="text-center mt-10">
+    <a href="https://forms.gle/BneubwLWLmTs6WRW8/" class="btn">
+        Prihláška
     </a>
 </div>
 {{</ landing/hero >}}
@@ -48,13 +54,13 @@ Je určená pre všetkých študentov stredných škôl (1. – 4. ročník) so 
 
 Odborný program bude prebiehať na Fakulte matematiky, fyziky a informatiky UK a je bezplatný. Ponúkame aj možnosť zakúpenia si obeda a ubytovania na vysokoškolských internátoch v blízkosti.
 
-Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčastniť celej Letnej školy. Môžeš si vybrať tú časť, ktorá ťa zaujíma a vyhovuje ti:
+Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčastniť celej Letnej školy. Môžeš si vybrať tú časť, ktorá ťa zaujíma a vyhovuje ti:
 
 {{</ prose >}}
 
 {{< grid/grid >}}
     {{< grid/image 
-        title="Letná škola programovania: 8.7. - 19.7."
+        title="Letná škola programovania: 7.7. - 18.7."
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
@@ -64,7 +70,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         lebo si už skúsený/á programátor/ka.
     {{</ grid/image >}}
     {{< grid/image 
-        title="Letná škola matematiky: 15.7. - 26.7."
+        title="Letná škola matematiky: 14.7. - 25.7."
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/letnaskola"
     >}}
@@ -73,7 +79,7 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
     {{</ grid/image >}}
     {{< grid/image 
-        title="Letná škola fyziky: 22.7 - 2.8."
+        title="Letná škola fyziky: 21.7 - 1.8."
         image="aktivity/fks-1.jpg"
         href="https://fks.sk/ls/"
     >}}
@@ -116,24 +122,24 @@ Letná škola prebieha v týždňoch od 8.7. do 2.8., nemusíš sa však zúčas
 
 Ubytovanie bude pravdepodobne zabezpečené v priestoroch vysokoškolského internátu ŠD Mladosť (mapa, stránka). Cenu ubytovania zverejníme, keď bude známa. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
 Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej školy. Ubytovanie sa dá objednať separátne na každý týždeň (nedeľa - piatok) a víkend medzi dvoma týždňami Letnej školy (piatok - nedeľa).
-**Prihlasovanie na ubytovanie je už pre tento rok uzavreté.**
+**O ubytovanie si zažiadaj v prihláške.**
 
 ## Koľko ma to bude stáť?
 
-Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania na internáte ŠD Mladosť bude 8 € za noc. Obed sa bude dať kúpiť za najviac 6 €. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
+Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania na internáte ŠD Mladosť bola minulý rok 8 € za noc. Prevdepodobne sa tento rok veľmi líšiť nebude. Obed sa bude dať kúpiť za najviac 6 €. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
 Všetci organizátori a lektori robia Letnú školu Trojstenu bez nároku na odmenu, to znamená, že za samotnú účasť nezaplatíš vôbec nič. Inými slovami, za v podstate „výrobné náklady“ ti prinášame špičkových ľudí s kopou vedomostí a know-how, ktorí ťa naučia kopu vedomostí a užitočných, praktických a špecifických zručností.
 
 Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád zúčastnil Letnej školy, napíš nám a niečo vymyslíme :).
 
 ## Čo musím urobiť aby som sa mohol/mohla zúčastniť Letnej školy?
 
-**Termín prihlasovania bol 2.7. Ak máš ešte záujem sa prihlásiť, napíš nám mail na letna.skola@trojsten.sk**. Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
+Stačí vyplniť [prihlášku](https://forms.gle/BneubwLWLmTs6WRW8/). Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
 
 Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nemôžeme zabezpečiť neustály dohľad nad každým účastníkom. Veríme, že si dostatočne zodpovedný, aby si zvládol účasť na Letnej škole aj s takouto podmienkou.
 
 ## Do kedy sa môžem prihlásiť?
 
-Prihlásiť alebo zmeniť prihlášku sa dá do 2.7.2024.
+Prihlásiť alebo zmeniť prihlášku sa dá do 23.6.2024. Ak by si sa chcel/-a prihlásiť po tomto dátume napíš nám na [letna.skola@trojsten.sk](mailto:letna.skola@trojsten.sk).
 
 ## Musím sa zúčastniť celej Letnej školy?
 
@@ -151,16 +157,16 @@ Daniel Teplan +421 948 850 940
 Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš napísať aj na:
 
 - Letná škola matematiky – barbora.javorova@trojsten.sk
-- Letná škola fyziky – lucia.gelenekyova@trojsten.sk
-- Letná škola programovania – emma.badurova@trojsten.sk
+- Letná škola fyziky – marek.sliva@trojsten.sk
+- Letná škola programovania – jan.plachy@trojsten.sk
 
 
 {{</ prose >}}
 
 {{<landing/cta
     title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Letná škola Trostenu sa bude konať 8.7. – 2.8.2024 na FMFI UK v Bratislave."
+    subtitle="Letná škola Trostenu sa bude konať 7.7. – 1.8.2024 na FMFI UK v Bratislave."
 >}}
-    {{<button text="Prihlasovanie sa skončilo" url="trojsten.sk/letna-skola/">}}
+    {{<button text="Prihláška" url="https://forms.gle/BneubwLWLmTs6WRW8/">}}
 {{</landing/cta>}}
 
