@@ -12,7 +12,7 @@ aliases:
 Ak ste zamestnanec, za ktorého podáva daňové priznanie zamestnávateľ
 
 1. Požiadajte svojho zamestnávateľa, aby Vám vystavil [potvrdenie o zaplatení dane](https://www.financnasprava.sk//_img/pfsedit/Dokumenty_PFS/Zverejnovanie_dok/Vzory_tlaciv/Zavisla_cinnost_5ZD/2018/2018.12.07_pr%C3%ADloha5.pdf).
-3. Vyplňte [vyhlásenie o poukázaní 2% (3%) z dane](/static/2-percenta-form.pdf)
+3. Vyplňte [vyhlásenie o poukázaní 2% (3%) z dane](/2-percenta-form.pdf)
 4. Obe tlačivá doručte najneskôr do **30. apríla 2025** na daňový úrad v mieste Vášho bydliska. (Ak ste vykonávali aspoň 40h dobrovoľníckej činnosti v minulom roku, priložte ešte k obom tlačivám potvrdenie od prijímateľa dobrovoľníckej činnosti.)
 
 Svoje 2 % môžete venovať len vtedy, ak bola vaša **daň za celý rok 2024 vyššia ako 150 €** (podiel Vašich 2 % teda musí byť minimálne 3 €). Ak ste v roku 2024 odpracovali dobrovoľnícky minimálne 40 hodín, môžete poukázať až 3 % z odvedených daní.
