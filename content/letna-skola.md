@@ -11,7 +11,7 @@ menu:
 
 {{< landing/hero
     title="Letná škola Trojstenu"
-    subtitle="7.7. – 1.8. 2024, FMFI UK, Bratislava" >}}
+    subtitle="7.7. – 1.8. 2025, FMFI UK, Bratislava" >}}
 <div class="text-center mt-10">
     <a href="/lsinfo/" class="btn">
         Aktuálne informácie
@@ -139,7 +139,7 @@ Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nem�
 
 ## Do kedy sa môžem prihlásiť?
 
-Prihlásiť alebo zmeniť prihlášku sa dá do 23.6.2024. Ak by si sa chcel/-a prihlásiť po tomto dátume napíš nám na [letna.skola@trojsten.sk](mailto:letna.skola@trojsten.sk).
+Prihlásiť alebo zmeniť prihlášku sa dá do 23.6.2025. Ak by si sa chcel/-a prihlásiť po tomto dátume napíš nám na [letna.skola@trojsten.sk](mailto:letna.skola@trojsten.sk).
 
 ## Musím sa zúčastniť celej Letnej školy?
 
@@ -165,7 +165,7 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 
 {{<landing/cta
     title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Letná škola Trostenu sa bude konať 7.7. – 1.8.2024 na FMFI UK v Bratislave."
+    subtitle="Letná škola Trostenu sa bude konať 7.7. – 1.8.2025 na FMFI UK v Bratislave."
 >}}
     {{<button text="Prihláška" url="https://forms.gle/BneubwLWLmTs6WRW8/">}}
 {{</landing/cta>}}
