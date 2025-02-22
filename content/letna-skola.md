@@ -72,7 +72,7 @@ Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčas
     {{< grid/image 
         title="Letná škola matematiky: 14.7. - 25.7."
         image="aktivity/kms-1.jpg"
-        href="https://kms.sk/letnaskola"
+        href="https://kms.sk/ls"
     >}}
 		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
