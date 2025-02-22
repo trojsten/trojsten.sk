@@ -126,7 +126,7 @@ Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej škol
 
 ## Koľko ma to bude stáť?
 
-Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania na internáte ŠD Mladosť bola minulý rok 8 € za noc. Prevdepodobne sa tento rok veľmi líšiť nebude. Obed sa bude dať kúpiť za najviac 6 €. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
+Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania a stravovania pribudnú neskôr. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
 Všetci organizátori a lektori robia Letnú školu Trojstenu bez nároku na odmenu, to znamená, že za samotnú účasť nezaplatíš vôbec nič. Inými slovami, za v podstate „výrobné náklady“ ti prinášame špičkových ľudí s kopou vedomostí a know-how, ktorí ťa naučia kopu vedomostí a užitočných, praktických a špecifických zručností.
 
 Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád zúčastnil Letnej školy, napíš nám a niečo vymyslíme :).
