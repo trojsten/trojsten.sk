@@ -120,13 +120,13 @@ Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčas
 
 ## Čo ak nie som z okolia Bratislavy a potrebujem ubytovanie?
 
-Ubytovanie bude pravdepodobne zabezpečené v priestoroch vysokoškolského internátu ŠD Mladosť (mapa, stránka). Cenu ubytovania zverejníme, keď bude známa. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
-Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej školy. Ubytovanie sa dá objednať separátne na každý týždeň (nedeľa - piatok) a víkend medzi dvoma týždňami Letnej školy (piatok - nedeľa).
+Ubytovanie bude zabezpečené na vysokoškolských internátoch v Mlynskej Doline. Bližšie informácie a cenu ubytovania zverejníme neskôr. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
+<!--Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej školy. Ubytovanie sa dá objednať separátne na každý týždeň (nedeľa - piatok) a víkend medzi dvoma týždňami Letnej školy (piatok - nedeľa).-->
 **O ubytovanie si zažiadaj v prihláške.**
 
 ## Koľko ma to bude stáť?
 
-Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania na internáte ŠD Mladosť bola minulý rok 8 € za noc. Prevdepodobne sa tento rok veľmi líšiť nebude. Obed sa bude dať kúpiť za najviac 6 €. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
+Letná škola Trojstenu ťa nebude stáť nič navyše, jediné za čo budeš musieť zaplatiť je jedlo a v prípade záujmu ubytovanie. Cena ubytovania a stravovania pribudnú neskôr. Ďalšie stravovanie a iné, napríklad voľnočasové finančné výdavky si počas celej letnej školy spravuješ ty. Je teda len na tebe ako ich minieš.
 Všetci organizátori a lektori robia Letnú školu Trojstenu bez nároku na odmenu, to znamená, že za samotnú účasť nezaplatíš vôbec nič. Inými slovami, za v podstate „výrobné náklady“ ti prinášame špičkových ľudí s kopou vedomostí a know-how, ktorí ťa naučia kopu vedomostí a užitočných, praktických a špecifických zručností.
 
 Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád zúčastnil Letnej školy, napíš nám a niečo vymyslíme :).
