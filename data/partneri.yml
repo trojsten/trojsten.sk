@@ -2,9 +2,9 @@
 - name: Nadácia ESET
   logo: eset.svg
   link: https://www.nadaciaeset.sk/
-- name: PosAm
-  logo: posam.png
-  link: https://posam.sk/
+# - name: PosAm
+  # logo: posam.png
+  # link: https://posam.sk/
 - name: Vacuumlabs
   logo: vacuumlabs.svg
   link: https://vacuumlabs.com/jobs
