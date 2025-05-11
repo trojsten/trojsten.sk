@@ -26,7 +26,7 @@ IČO: 30815886
 - užívateľské meno
 - IP adresy
 
-U účastníkov naších prezenčných akcií (sústredenia, letné školy a iné) spracovávame aj:
+U účastníkov našich prezenčných akcií (sústredenia, letné školy a iné) spracovávame aj:
 
 - adresa trvalého pobytu
 - telefónne číslo
