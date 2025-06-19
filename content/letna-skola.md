@@ -20,7 +20,7 @@ menu:
 
 <div class="text-center mt-10">
     <a href="https://forms.gle/BneubwLWLmTs6WRW8/" class="btn">
-        Prihláška
+        Prihláška  (do 23.6.)
     </a>
 </div>
 {{</ landing/hero >}}
