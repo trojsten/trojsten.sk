@@ -22,7 +22,9 @@ menu:
     <a href="https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546" class="btn">
         Dodatočná prihláška  (do 29.6.)
     </a>
-	Ubytovanie už nevieme zaručiť, v prípade záujmu sa nám ozvite mailom.
+</div>
+<div class="text-center mt-10">
+Ubytovanie už nevieme zaručiť, v prípade záujmu sa nám ozvite mailom.
 </div>
 {{</ landing/hero >}}
 
