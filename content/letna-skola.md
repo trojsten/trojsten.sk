@@ -19,9 +19,10 @@ menu:
 </div>
 
 <div class="text-center mt-10">
-    <a href="https://forms.gle/BneubwLWLmTs6WRW8/" class="btn">
-        Prihláška  (do 23.6.)
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546" class="btn">
+        Dodatočná prihláška  (do 29.6.)
     </a>
+	Ubytovanie už nevieme zaručiť, v prípade záujmu sa nám ozvite mailom.
 </div>
 {{</ landing/hero >}}
 
@@ -122,7 +123,7 @@ Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčas
 
 Ubytovanie bude zabezpečené na vysokoškolských internátoch v Mlynskej Doline. Bližšie informácie a cenu ubytovania zverejníme neskôr. Potrebné informácie o ubytovaní a platbe obdržíš pred nástupom na Letnú školu. V prípade, že ti stanovená cena nebude vyhovovať, môžeš sa z ubytovania odhlásiť, alebo prípadne požiadať o príspevok na ubytovanie.
 <!--Na internáte sa dá ubytovať už v nedeľu večer pred začiatkom Letnej školy. Ubytovanie sa dá objednať separátne na každý týždeň (nedeľa - piatok) a víkend medzi dvoma týždňami Letnej školy (piatok - nedeľa).-->
-**O ubytovanie si zažiadaj v prihláške.**
+**Prihlasovanie na ubytovanie sa skončilo. Ak máš stále záujem, môžeš nám napísať mail, a pokúsime sa ho ešte zabezpečiť.**
 
 ## Koľko ma to bude stáť?
 
@@ -133,7 +134,7 @@ Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád z�
 
 ## Čo musím urobiť aby som sa mohol/mohla zúčastniť Letnej školy?
 
-Stačí vyplniť [prihlášku](https://forms.gle/BneubwLWLmTs6WRW8/). Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
+Stačí vyplniť [prihlášku](https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546). Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
 
 Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nemôžeme zabezpečiť neustály dohľad nad každým účastníkom. Veríme, že si dostatočne zodpovedný, aby si zvládol účasť na Letnej škole aj s takouto podmienkou.
 
@@ -167,6 +168,6 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
     title="Chceš nadobudnúť nové vedomosti?"
     subtitle="Letná škola Trostenu sa bude konať 7.7. – 1.8.2025 na FMFI UK v Bratislave."
 >}}
-    {{<button text="Prihláška" url="https://forms.gle/BneubwLWLmTs6WRW8/">}}
+    {{<button text="Prihláška" url="https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546">}}
 {{</landing/cta>}}
 
