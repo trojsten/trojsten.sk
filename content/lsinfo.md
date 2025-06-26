@@ -31,7 +31,7 @@ V priestoroch fakulty je dostupná wifi. Názov siete: **Konferencia**, Heslo: *
 
 ## Informovaný súhlas
 
-Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom, a nájdeš ho aj na [tomto odkaze](https://drive.google.com/file/d/1f00JGVcAR5Q_ZJ1kExzKG_vE3Oo6SdsU/view?usp=drive_link).
+Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom, a nájdeš ho aj na [tomto odkaze](https://drive.google.com/file/d/1RagKtnZsRIha4VdWx7H9P2dZr2qpGaOc/view?usp=drive_link).
 
 ## Obedy
 Stravovanie na Letnej škole bude prebiehať v jedálni [FaynFood](http://www.freefood.sk/) na Matfyze. Lístok na obedové menu (a olovrant) stojí 6€. Účastníci môžu zaplatiť za ľubovoľný počet lístkov podľa pokynov v e-maili s platbou, a potom si ich bude možné vyzdvihnúť najbližší pondelok ráno pri vrátnici. Prosím realizujte platby v dostatočnom predstihu tak, aby sme ich mali v pondelok ráno už na účte. **lístky na obed je možné dokúpiť, nie je možné ich vrátiť.** Jedálny lístok doplníme pred začiatkom každého týždňa.
