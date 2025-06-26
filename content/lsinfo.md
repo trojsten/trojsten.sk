@@ -27,7 +27,7 @@ V prípade núdze môžete volať Skalošovi (viď. kontakty).
 
 ## Wifi
 
-V priestoroch fakulty je dostupná wifi. Názov a meno siete zverejníme pred LŠ.<!-- Názov siete: **LETNE TABORY** Heslo: **krasneleto24** -->
+V priestoroch fakulty je dostupná wifi. Názov siete: **Konferencia**, Heslo: **3sten-25** 
 
 ## Informovaný súhlas
 
