@@ -38,7 +38,7 @@ Stravovanie na Letnej škole bude prebiehať v jedálni [FaynFood](http://www.fr
 
 ## Informácie pre ubytovaných
 
-Ubytovanie bude poskytovať ŠD Dobrovičova ([mapa](https://mapy.com/s/fumeducutu)). Ak si sa prihlásil/-a na ubytovanie, e-mailom sme ti poslali informácie o platbe. **Odubytovanie v piatok je nutné ráno, ešte pred  prednáškami.** Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania, ktorý pošleme ubytovaným najneskôr 1.7.
+Ubytovanie bude poskytovať ŠD Mlyny UK([mapa](https://mapy.com/s/kamopovala)). Ak si sa prihlásil/-a na ubytovanie, e-mailom ti pošleme informácie o platbe. Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania.
 
 ## Kontakty
 
