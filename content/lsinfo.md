@@ -9,7 +9,7 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 </div>
 
 ## Aktuálne
-<!-- Vrátnica je ráno otvorená od do --->
+Pozor! V stredu 10.7. do 12:00 nepôjde na Matfyze voda.
 
 ## Programy LŠ
 
