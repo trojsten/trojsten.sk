@@ -8,6 +8,10 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
+## Aktuálne
+
+**Zajtra (13.07) sa pôjdeme prejsť po netradičných miestach po Bratislave.** Stretli by sme sa **na zastávke Most SNP o 16:00** a pokračovali by sme v smere hodinových ručičiek okolo širšieho centra, skončili by sme na Nivách - plus bonusová možnosť odviezť sa autobusom na jednu s najkrajších budov v Bratislave - a to ŽST Petržalka.
+
 ## Programy LŠ
 
 Programy jednotlivých častí Letnej školy nájdete najneskôr 1.7. tu:
