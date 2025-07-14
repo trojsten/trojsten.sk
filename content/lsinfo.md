@@ -10,7 +10,7 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Aktuálne
 
-**Zajtra (13.07) sa pôjdeme prejsť po netradičných miestach po Bratislave.** Stretli by sme sa **na zastávke Most SNP o 16:00** a pokračovali by sme v smere hodinových ručičiek okolo širšieho centra, skončili by sme na Nivách - plus bonusová možnosť odviezť sa autobusom na jednu s najkrajších budov v Bratislave - a to ŽST Petržalka.
+**V nedeľu (20.07) pôjdeme do Laser Tag arény** (Wolf aréna [mapa](https://www.google.com/maps/dir//Kop%C4%8Dianska+6211,+851+01+Bratislava/@48.1170908,17.0932271,103m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x476c897373f8ccd1:0x86db01e728f35e4d!2m2!1d17.0934395!2d48.1170244?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D)). Prosím prihláste sa najneskôr do **stredy 16.07.** Záväzná [prihláška](https://docs.google.com/forms/d/e/1FAIpQLSeoOWbKHkoq--A0mxxn7JKMfv17ckVzdIKhYyGGo6iuK0JWjA/viewform?usp=header).
 
 ## Programy LŠ
 
