@@ -12,6 +12,9 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 **V nedeľu (20.07) pôjdeme do Laser Tag arény** (Wolf aréna [mapa](https://www.google.com/maps/dir//Kop%C4%8Dianska+6211,+851+01+Bratislava/@48.1170908,17.0932271,103m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x476c897373f8ccd1:0x86db01e728f35e4d!2m2!1d17.0934395!2d48.1170244?entry=ttu&g_ep=EgoyMDI1MDcwOS4wIKXMDSoASAFQAw%3D%3D)). Prosím prihláste sa najneskôr do **stredy 16.07.** Záväzná [prihláška](https://docs.google.com/forms/d/e/1FAIpQLSeoOWbKHkoq--A0mxxn7JKMfv17ckVzdIKhYyGGo6iuK0JWjA/viewform?usp=header).
 
+
+V stredu na lezenie do Vertiga musia mať neplnoletí účastníci **[informovaný súhlas](https://drive.google.com/file/d/1QOYp5gu_fDhGyCxcHh58PTZ6e-3ipwVA/view?usp=sharing)** 
+
 ## Programy LŠ
 
 Programy jednotlivých častí Letnej školy nájdete najneskôr 1.7. tu:
