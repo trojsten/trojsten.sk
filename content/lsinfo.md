@@ -16,6 +16,11 @@ Programy jednotlivých častí Letnej školy nájdete najneskôr 1.7. tu:
 - Matematika [kms.sk/ls](https://kms.sk/ls/)
 - Fyzika [fks.sk/ls](https://fks.sk/ls)
 
+## Spätná väzba
+Prosím vypĺňajte nám anketu k prednáškam na:
+https://go.fks.sk/anketa (fyzika)
+https://go.kms.sk/anketa (matematika)
+
 ## Voľný čas
 
 Bude sa konať podľa **[rozpisu](https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4NxNefZfVY7xEONwnmMDLLjUa6gG4OFOthNGwjGchwRwVystkbDZ5tLAtq6owpzoinwaBgtoL4-D/pubhtml?gid=992847862&single=true)** každý deň po odbornom programe. Začíname medzi 16:00 - 16:30 spoločným presunom z fakulty. 
