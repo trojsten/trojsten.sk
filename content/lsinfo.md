@@ -27,6 +27,10 @@ Bude sa konať podľa **[rozpisu](https://docs.google.com/spreadsheets/d/e/2PACX
 Pre aktuálne informácie a diskusiu sa pridajte na [discordový server letnej školy](https://discord.gg/q5kTuDpZbn), a vyberte si v sekcii "channels and roles" letné školy.
 V prípade núdze môžete volať Skalošovi (viď. kontakty). 
 
+### Jump Aréna
+
+Vo štvrtok 24.7. v rámci voľnočasového programu pôjdeme do Jump Areny. V Jump Arene je kopa trampolín, môžete si vyskúšať slackline (chôdzu po lane), či zahrať si basketbal na trampolínach. Vyrazíme spoločne o 16.00 z Matfyzu. Cena za hodinový vstup a protišmykové ponožky je 12.4€. Ak si donesiete vlastné protišmykové ponožky (minimálna protišmyková plocha musí byť 70%), tak cena vstupu je 9.5€. Ak sa chcete pridať, prihláste sa na <https://go.trojsten.sk/jumparena>.
+
 ## Wifi
 
 V priestoroch fakulty je dostupná wifi. Názov siete: **Konferencia**, Heslo: **3sten-25** 
