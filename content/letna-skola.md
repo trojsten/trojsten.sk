@@ -131,7 +131,7 @@ Ak by bola cena ešte stále pre teba problém, no napriek tomu by si sa rád z�
 
 ## Čo musím urobiť aby som sa mohol/mohla zúčastniť Letnej školy?
 
-Stačí vyplniť [prihlášku](https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546). Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
+Ak si vyplnil prihlášku, je to vybavené. Ak ešte nemáš 18 rokov, tvoj zákonný zástupca alebo rodič musí vyplniť informovaný súhlas o účasti na Letnej škole (dostaneš mailom pred začiatkom), ktorý nám odovzdáš pri príchode. Tým berie na vedomie, že sa Letnej školy Trojstenu zúčastňuješ na vlastnú resp. jeho zodpovednosť.
 
 Z povahy letnej školy, keďže nejde o sústredenie v samostatnom objekte, nemôžeme zabezpečiť neustály dohľad nad každým účastníkom. Veríme, že si dostatočne zodpovedný, aby si zvládol účasť na Letnej škole aj s takouto podmienkou.
 
