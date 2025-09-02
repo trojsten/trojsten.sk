@@ -59,33 +59,36 @@ Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčas
     {{< grid/image
         title="Letná škola programovania: 7.7. - 18.7."
         image="aktivity/ksp-1.jpg"
-        href="<https://ksp.sk/ls/>"
+        href="https://ksp.sk/ls/"
     >}}
-  Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
+       Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
         a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
         nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a
         lebo si už skúsený/á programátor/ka.
+    <br>
     <br>
     {{<button text="Viac informácií »" url="https://ksp.sk/ls/">}}
     {{</ grid/image >}}
     {{< grid/image
         title="Letná škola matematiky: 14.7. - 25.7."
         image="aktivity/kms-1.jpg"
-        href="<https://kms.sk/ls>"
+        href="https://kms.sk/ls"
     >}}
-  Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
+       Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
+    <br>
     <br>
     {{<button text="Viac informácií »" url="https://kms.sk/ls/">}}
     {{</ grid/image >}}
     {{< grid/image
         title="Letná škola fyziky: 21.7 - 1.8."
         image="aktivity/fks-1.jpg"
-        href="<https://fks.sk/ls/>"
+        href="https://fks.sk/ls/"
     >}}
-  Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
+       Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
         Poobede zas praktické programovanie či spracovanie experimentálnych dát.
+    <br>
     <br>
     {{<button text="Viac informácií »" url="https://fks.sk/ls/">}}
     {{</ grid/image >}}
