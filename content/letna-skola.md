@@ -23,7 +23,6 @@ Prihlasovanie sa skončilo. V prípade záujmu sa nám ozvite mailom.
 </div>
 {{</ landing/hero >}}
 
-
 {{< landing/right-image
     title="Čo je Letná škola Trojstenu?"
     text="Letná škola Trojstenu je výborný spôsob ako sa aj v lete naučiť niečo nové a zaujímavé. Má tri časti – programovaciu, fyzikálnu a matematickú. Jej cieľom je posúnúť Ťa míľovými krokmi dopredu. Je to výborný spôsob ako stráviť časť prázdnin s kamarátmi a popri tom sa naučiť veľa nového a užitočného. Okrem odborného programu na Teba čaká aj organizovaný voľnočasový program."
@@ -57,39 +56,47 @@ Letná škola prebieha v týždňoch od 7.7. do 1.8., nemusíš sa však zúčas
 {{</ prose >}}
 
 {{< grid/grid >}}
-    {{< grid/image 
+    {{< grid/image
         title="Letná škola programovania: 7.7. - 18.7."
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
-		Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
+       Základy programovacieho jazyka, jednoduché aj pokročilejšie algoritmy a dátové štruktúry
         a ich efektívnu implementáciu. Rozdelení budete do viacerých skupín podľa predchádzajúcich znalostí,
-        nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a 
+        nájde sa preto pre teba miesto bez ohľadu na to, či si ešte nikdy neprogramoval/a
         lebo si už skúsený/á programátor/ka.
+    <br>
+    <br>
+    {{<button text="Viac informácií »" url="https://ksp.sk/ls/">}}
     {{</ grid/image >}}
-    {{< grid/image 
+    {{< grid/image
         title="Letná škola matematiky: 14.7. - 25.7."
         image="aktivity/kms-1.jpg"
         href="https://kms.sk/ls"
     >}}
-		Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
+       Či už sa iba začínaš zaujímať o matematiku, alebo máš pojmy ako Dirichletov princíp,
         Funkcionálna rovnica, Kvadratické zvyšky a Harmonický štvorpomer už dávno zmáknuté,
         u nás si nájdeš niečo pre seba. Budeš mať na výber z veľa prednášok, pokrývajúcich rôzne oblasti matematiky.
+    <br>
+    <br>
+    {{<button text="Viac informácií »" url="https://kms.sk/ls/">}}
     {{</ grid/image >}}
-    {{< grid/image 
+    {{< grid/image
         title="Letná škola fyziky: 21.7 - 1.8."
         image="aktivity/fks-1.jpg"
         href="https://fks.sk/ls/"
     >}}
-		Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
+       Od síl a zrýchlení, cez temodynamiku plynov až po základy kvantovej mechaniky a špeciálnu relativitu.
         Poobede zas praktické programovanie či spracovanie experimentálnych dát.
+    <br>
+    <br>
+    {{<button text="Viac informácií »" url="https://fks.sk/ls/">}}
     {{</ grid/image >}}
 {{</ grid/grid >}}
 
 {{< prose >}}
 
 {{</ prose >}}
-
 
 {{< landing/left-image
     title="Typický deň na Letnej škole"
@@ -147,17 +154,15 @@ Maj na pamäti, že prednášky môžu na seba naväzovať. Takže Ti odporúča
 
 # Kontakt
 
-Akékoľvek všeobecné otázky sa môžeš opýtať na letna.skola@trojsten.sk alebo telefonicky:
+Akékoľvek všeobecné otázky sa môžeš opýtať na <letna.skola@trojsten.sk> alebo telefonicky:
 
 Daniel Teplan +421 948 850 940
 
-
 Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš napísať aj na:
 
-- Letná škola matematiky – barbora.javorova@trojsten.sk
-- Letná škola fyziky – marek.sliva@trojsten.sk
-- Letná škola programovania – jan.plachy@trojsten.sk
-
+- Letná škola matematiky – <barbora.javorova@trojsten.sk>
+- Letná škola fyziky – <marek.sliva@trojsten.sk>
+- Letná škola programovania – <jan.plachy@trojsten.sk>
 
 {{</ prose >}}
 
@@ -167,4 +172,3 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 >}}
     {{<button text="Prihláška" url="https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546">}}
 {{</landing/cta>}}
-
