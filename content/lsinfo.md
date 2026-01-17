@@ -10,14 +10,14 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Programy LŠ
 
-Programy jednotlivých častí Letnej školy nájdete najneskôr 1.7. tu:
+Programy jednotlivých častí Letnej školy nájdete najneskôr 1. 7. tu:
 
 - Programovanie [ksp.sk/ls](https://ksp.sk/ls)
 - Matematika [kms.sk/ls](https://kms.sk/ls/)
 - Fyzika [fks.sk/ls](https://fks.sk/ls)
 
 ## Spätná väzba
-Prosím vypĺňajte nám anketu k prednáškam na:
+Prosím, vypĺňajte nám anketu k prednáškam na:
 https://go.fks.sk/anketa (fyzika)
 https://go.kms.sk/anketa (matematika)
 
@@ -25,29 +25,25 @@ https://go.kms.sk/anketa (matematika)
 
 Bude sa konať podľa **[rozpisu](https://docs.google.com/spreadsheets/d/e/2PACX-1vQO4NxNefZfVY7xEONwnmMDLLjUa6gG4OFOthNGwjGchwRwVystkbDZ5tLAtq6owpzoinwaBgtoL4-D/pubhtml?gid=992847862&single=true)** každý deň po odbornom programe. Začíname medzi 16:00 - 16:30 spoločným presunom z fakulty. 
 Pre aktuálne informácie a diskusiu sa pridajte na [discordový server letnej školy](https://discord.gg/q5kTuDpZbn), a vyberte si v sekcii "channels and roles" letné školy.
-V prípade núdze môžete volať Skalošovi (viď. kontakty). 
-
-### Jump Aréna
-
-Vo štvrtok 24.7. v rámci voľnočasového programu pôjdeme do Jump Areny. V Jump Arene je kopa trampolín, môžete si vyskúšať slackline (chôdzu po lane), či zahrať si basketbal na trampolínach. Vyrazíme spoločne o 16.00 z Matfyzu. Cena za hodinový vstup a protišmykové ponožky je 12.4€. Ak si donesiete vlastné protišmykové ponožky (minimálna protišmyková plocha musí byť 70%), tak cena vstupu je 9.5€. Ak sa chcete pridať, prihláste sa na <https://go.trojsten.sk/jumparena>.
+V prípade núdze môžete volať Skalošovi (viď kontakty). 
 
 ## Wifi
 
-V priestoroch fakulty je dostupná wifi. Názov siete: **Konferencia**, Heslo: **3sten-25** 
+V priestoroch fakulty je dostupná wifi. Názov siete: **TBA**, Heslo: **TBA** 
 
 ## Informovaný súhlas
 
 Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom, a nájdeš ho aj na [tomto odkaze](https://drive.google.com/file/d/1RagKtnZsRIha4VdWx7H9P2dZr2qpGaOc/view?usp=drive_link).
 
 ## Obedy
-Stravovanie na Letnej škole bude prebiehať v jedálni [FaynFood](http://www.freefood.sk/) na Matfyze. Lístok na obedové menu (a olovrant) stojí 6€. Účastníci môžu zaplatiť za ľubovoľný počet lístkov podľa pokynov v e-maili s platbou, a potom si ich bude možné vyzdvihnúť najbližší pondelok ráno pri vrátnici. Prosím realizujte platby v dostatočnom predstihu tak, aby sme ich mali v pondelok ráno už na účte. **lístky na obed je možné dokúpiť, nie je možné ich vrátiť.**
+Stravovanie na Letnej škole bude prebiehať v jedálni [FaynFood](http://www.freefood.sk/) na Matfyze. Lístok na obedové menu (a olovrant) stojí 6 €. Účastníci môžu zaplatiť za ľubovoľný počet lístkov podľa pokynov v e-maili s platbou, a potom si ich bude možné vyzdvihnúť najbližší pondelok ráno pri vrátnici. Prosím, realizujte platby v dostatočnom predstihu tak, aby sme ich mali v pondelok ráno už na účte. **lístky na obed je možné dokúpiť, nie je možné ich vrátiť.**
 Ak ste nevyjadrili záujem o obedy v prihláške, ale chceli by ste si kúpiť lístky, napíšte na daniel.teplan@trojsten.sk
 
-Môžete si pozrieť [jedálny lístok](https://drive.google.com/file/d/1eToM14PKWkdmAuXKiDBD_exGdxY8yNvC/view?usp=sharing).
+Časom bude k dispozícii jedálny lístok.
 
 ## Informácie pre ubytovaných
 
-Ubytovanie poskytuje ŠD Mlyny UK([mapa](https://mapy.com/s/kamopovala)) na Átriákoch. Ak si sa prihlásil/-a na ubytovanie, e-mailom sme ti poslali informácie o platbe. Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania.
+Ubytovanie bude na vysokoškolských internátoch v Mlynskej Doline. Viac informácií zverejníme neskôr. Ak sa prihlásiš na ubytovanie, e-mailom ti pošleme informácie o platbe. Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania.
 
 ## Kontakty
 
