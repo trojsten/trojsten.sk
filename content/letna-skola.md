@@ -170,5 +170,5 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
     title="Chceš nadobudnúť nové vedomosti?"
     subtitle="Letná škola Trostenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
 >}}
-    {{<button text="Prihláška" url="https://docs.google.com/forms/d/e/1FAIpQLScppDr9JamnfparfgxwY8W81xdu3KCCqbkTnZIY3hLcqxu8aQ/viewform?usp=sharing&ouid=118357502952176922546">}}
+    {{<button text="Prihláška" url="/">}}
 {{</landing/cta>}}
