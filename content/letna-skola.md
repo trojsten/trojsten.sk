@@ -57,7 +57,7 @@ Letná škola prebieha v týždňoch od 6. 7. do 24. 7. 2026, nemusíš sa však
 
 {{< grid/grid >}}
     {{< grid/image
-        title="Letná škola programovania: 6. 7. - 10. 7."
+        title="Letná škola programovania: 6. 7. - 17. 7."
         image="aktivity/ksp-1.jpg"
         href="https://ksp.sk/ls/"
     >}}
@@ -167,8 +167,8 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 {{</ prose >}}
 
 {{<landing/cta
-    title="Chceš nadobudnúť nové vedomosti?"
-    subtitle="Letná škola Trostenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
+    title="Chceš sa pridať?"
+    subtitle="Letná škola Trojstenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
 >}}
     {{<button text="Prihláška" url="/">}}
 {{</landing/cta>}}
