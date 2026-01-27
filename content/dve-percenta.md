@@ -12,7 +12,8 @@ aliases:
 Ak ste zamestnanec, za ktorého podáva daňové priznanie zamestnávateľ
 
 1. Požiadajte svojho zamestnávateľa, aby vám vystavil [potvrdenie o zaplatení dane](https://www.financnasprava.sk//_img/pfsedit/Dokumenty_PFS/Zverejnovanie_dok/Vzory_tlaciv/Zavisla_cinnost_5ZD/2025/2025.12.09_potvrd_dan.pdf).
-2. Vyplňte [vyhlásenie o poukázaní 2% (3%) z dane](/2-percenta-form.pdf?2026)
+2. Vyplňte [vyhlásenie o poukázaní 2% (3%) z dane](/2-percenta-form.pdf?2026).
+  (Prečítajte si [poučenie na vyplnenie](https://www.financnasprava.sk//_img/pfsedit/Dokumenty_PFS/Zverejnovanie_dok/Vzory_tlaciv/Zavisla_cinnost_5ZD/2025/2025.12.09_pouc_vyhlas.pdf)).
 3. Obe tlačivá doručte najneskôr do **30. apríla 2026** na daňový úrad v
   mieste vášho bydliska. (Ak ste vykonávali aspoň 40h dobrovoľníckej činnosti
   v minulom roku, priložte ešte k obom tlačivám potvrdenie od prijímateľa
