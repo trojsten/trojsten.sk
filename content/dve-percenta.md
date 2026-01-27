@@ -38,7 +38,7 @@ Ak ste fyzická osoba, ktorá si podáva daňové priznanie sama
 4. Nezabudnite do tohto termínu zaplatiť daň z príjmov.
 
 Svoje 2 % môžete venovať len vtedy, ak bol podiel vašich 2 % minimálne 3 €.
-Ak ste v roku 2024 odpracovali dobrovoľnícky minimálne 40 hodín, môžete poukázať
+Ak ste v roku 2025 odpracovali dobrovoľnícky minimálne 40 hodín, môžete poukázať
 až 3 % z odvedených daní.
 
 ## Právnická osoba
@@ -53,7 +53,7 @@ Ak ste právnická osoba
 4. Vyplňte príslušný oddiel daňového priznania našimi identifikačnými údajmi:
   *Trojsten, občianske združenie, FMFI UK Mlynská dolina, 842 48 Bratislava,
   IČO: 30815886*
-5. Vyplnené daňové priznanie doručte do **31. marca 2025** na daňový úrad.
+5. Vyplnené daňové priznanie doručte do **31. marca 2026** na daňový úrad.
 6. Nezabudnite do tohto termínu zaplatiť daň z príjmov.
 
 Svoje **2 % (prípadne 1 %)** z dane môžete venovať, ak bol podiel vašich 2 %
