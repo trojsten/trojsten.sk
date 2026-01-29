@@ -8,6 +8,10 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
+## Prihlasovanie
+
+Už je otvorená [prihláška](https://forms.gle/wHPH3KU6981tDL1c9) na LŠ.
+
 ## Programy LŠ
 
 Programy jednotlivých častí Letnej školy nájdete najneskôr 1. 7. tu:

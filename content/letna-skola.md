@@ -19,7 +19,9 @@ menu:
 </div>
 
 <div class="text-center mt-10">
-Prihlasovanie sa ešte nezačalo.
+    <a href="https://forms.gle/wHPH3KU6981tDL1c9" class="btn">
+        Prihláška
+    </a>
 </div>
 {{</ landing/hero >}}
 
@@ -170,5 +172,5 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
     title="Chceš sa pridať?"
     subtitle="Letná škola Trojstenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
 >}}
-    {{<button text="Prihláška" url="/">}}
+    {{<button text="Prihláška" url="https://forms.gle/wHPH3KU6981tDL1c9">}}
 {{</landing/cta>}}
