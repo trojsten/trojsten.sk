@@ -19,8 +19,8 @@ menu:
 </div>
 
 <div class="text-center mt-10">
-    <a href="https://forms.gle/wHPH3KU6981tDL1c9" class="btn">
-        Prihláška (do 21.6.)
+    <a href="https://forms.gle/3ur9WfRgS4Nms8Cb7" class="btn">
+        Dodatočná prihláška (bez ubytovania)
     </a>
 </div>
 {{</ landing/hero >}}
