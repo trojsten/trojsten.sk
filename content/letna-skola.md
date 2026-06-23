@@ -172,5 +172,5 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
     title="Chceš sa pridať?"
     subtitle="Letná škola Trojstenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
 >}}
-    {{<button text="Prihláška" url="https://forms.gle/wHPH3KU6981tDL1c9">}}
+    {{<button text="Dodatočná prihláška" url="https://forms.gle/3ur9WfRgS4Nms8Cb7">}}
 {{</landing/cta>}}
