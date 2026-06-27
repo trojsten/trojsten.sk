@@ -10,11 +10,11 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Prihlasovanie
 
-Už je otvorená [prihláška](https://forms.gle/wHPH3KU6981tDL1c9) na LŠ.
+Prihlasovanie bez ubytovania je ešte možné cez dodatočný formulár na [trojsten.sk/letnaskola](https://trojsten.sk/letnaskola/) na LŠ.
 
 ## Programy LŠ
 
-Programy jednotlivých častí Letnej školy nájdete najneskôr 1. 7. tu:
+Programy jednotlivých častí Letnej školy nájdete tu:
 
 - Programovanie [ksp.sk/ls](https://ksp.sk/ls)
 - Matematika [kms.sk/ls](https://kms.sk/ls/)
