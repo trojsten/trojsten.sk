@@ -10,7 +10,7 @@ Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať
 
 ## Prihlasovanie
 
-Prihlasovanie bez ubytovania je ešte možné cez dodatočný formulár na [trojsten.sk/letnaskola](https://trojsten.sk/letnaskola/) na LŠ.
+Prihlasovanie bez ubytovania je ešte možné cez dodatočný formulár na [trojsten.sk/letna-skola](https://trojsten.sk/letna-skola/) na LŠ.
 
 ## Programy LŠ
 
@@ -37,15 +37,16 @@ a vyberte si v sekcii "channels and roles" letné školy.
 
 ## Wifi
 
-V priestoroch fakulty je dostupná wifi. Názov siete: **TBA**, Heslo: **TBA**
+V priestoroch fakulty je dostupná wifi. Názov siete: **LETO**, Heslo: **hura26leto**
 
 ## Informovaný súhlas
 
-Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom. <!--  , a nájdeš ho aj na tomto odkaze -->
+Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom,
+a nájdeš ho aj na [drive.google.com/file/d/1jVoZG-vEJZVrpnrODc3717BdnC4KAqwp/view](https://drive.google.com/file/d/1jVoZG-vEJZVrpnrODc3717BdnC4KAqwp/view).
 
 ## Obedy
 Stravovanie na Letnej škole bude prebiehať v jedálni [FaynFood](http://www.freefood.sk/) na Matfyze.
-Lístok na obedové menu (a olovrant) stojí okolo 6 €.
+Lístok na obedové menu (a olovrant) stojí 6.60 €.
 Účastníci môžu zaplatiť za ľubovoľný počet lístkov podľa pokynov v e-maili s platbou, a potom si ich bude možné vyzdvihnúť najbližší pondelok ráno pri vrátnici.
 Prosím, realizujte platby v dostatočnom predstihu tak, aby sme ich mali v pondelok ráno už na účte.
 **Lístky na obed je možné dokúpiť, nie je možné ich vrátiť.**
