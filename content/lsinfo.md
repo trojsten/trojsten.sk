@@ -29,7 +29,7 @@ https://go.kms.sk/anketa (matematika)
 
 ## Voľný čas
 
-Bude sa konať podľa rozpisu každý deň po odbornom programe.
+Bude sa konať podľa rozpisu ([https://docs.google.com/spreadsheets/d/15fWtN78fhI6JhZZB50SU5CptY_NWj6FPJQsARcv8tCg](https://docs.google.com/spreadsheets/d/15fWtN78fhI6JhZZB50SU5CptY_NWj6FPJQsARcv8tCg)) každý deň po odbornom programe.
 Začíname medzi 16:00 - 16:30 spoločným presunom z fakulty.
 Pre aktuálne informácie a diskusiu sa pridajte na [discordový server letnej školy](https://discord.gg/q5kTuDpZbn),
 a vyberte si v sekcii "channels and roles" letné školy.
