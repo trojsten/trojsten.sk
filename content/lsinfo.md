@@ -70,7 +70,7 @@ Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania.
 
 ### Organizačné
 
-Všeobecné dotazy: letna.skola@trojsten.sk\
+Všeobecné otázky: letna.skola@trojsten.sk\
 Platby, financie: adam.zahradnik@trojsten.sk\
 Ubytovanie: Telefónne čísla na vedúcich sú v maili s inštrukciami k ubytovaniu
 <!--
