@@ -42,7 +42,7 @@ V priestoroch fakulty je dostupná wifi. Názov siete: **LETO**, Heslo: **hura26
 ## Informovaný súhlas
 
 Ak ešte nemáš 18 rokov, nezabudni na Letnú školu priniesť rodičom podpísaný informovaný súhlas, ktorý ti príde mailom,
-a nájdeš ho aj [tu](https://drive.google.com/file/d/1jVoZG-vEJZVrpnrODc3717BdnC4KAqwp/view).
+a [nájdeš ho aj tu](https://drive.google.com/file/d/1jVoZG-vEJZVrpnrODc3717BdnC4KAqwp/view).
 
 ## Obedy
 
