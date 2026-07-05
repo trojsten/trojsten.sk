@@ -57,9 +57,23 @@ Ak ste nevyjadrili záujem o obedy v prihláške, ale chceli by ste si kúpiť l
 
 ## Informácie pre ubytovaných
 
-Ubytovanie bude na vysokoškolských internátoch v Mlynskej Doline.
-Viac informácií zverejníme neskôr. Ak sa prihlásiš na ubytovanie, e-mailom ti pošleme informácie o platbe.
-Bližšie informácie a kontakty budú dostupné v e-maili ohľadom ubytovania.
+Budeme ubytovaní na internáte Mladosť ([webstránka](https://ubytovanieastravovanie.stuba.sk/sd-mladost), [mapa](https://maps.app.goo.gl/ph86RepkJTPYo5hw8)), konkrétne na práve zrekonštruovanom bloku D (pri vstupe bude šípka ukazajúca, kde je blok D).
+Ubytovanie prebieha tak, že na vrátnici **sa preukážeš dokladom totožnosti**, rovnakým ako bol Tebou uvedený v prihláške.
+Vrátnik Ti odovzdá kľúčik a preukaz (žltá kartička).
+**Na kľúčik aj preukaz dávaj veľký pozor**.
+Preukaz treba ukázať vždy pri vstupe.
+Na vrátnici si vieš taktiež prevziať posteľnú bielizeň, ak bude na izbe chýbať.
+
+Po príchode na izbu **skontroluj, či je všetko v poriadku**, nič nie je rozbité, upchaté atď.
+Ak by bol nejaký problém, hneď nás kontaktuj, pokúsime sa to vyriešiť.
+
+**Odubytovať sa treba do 9:00**.
+Ak teda odchádzaš v piatok, urob to ešte pred odchodom na program LŠ.
+Potom kľúče a kartičku odovzdaj na vrátnici, rovnako aj posteľnú bielizeň.
+Na fakulte bude určená miestnosť na uskladnenie batožiny.
+
+V prípade akýchkoľvek ďalších otázok nás neváhaj kontaktovať.
+V prípade otázok/problémov priamo na mieste môžeš v prvý týždeň LŠ kontaktovať vedúceho (Denys Andrukhovskyi, číslo je v maile).
 
 ## Kontakty
 
