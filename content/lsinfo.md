@@ -54,6 +54,7 @@ Prosím, realizujte platby v dostatočnom predstihu tak, aby sme ich mali v pond
 Ak ste nevyjadrili záujem o obedy v prihláške, ale chceli by ste si kúpiť lístky, napíšte na daniel.teplan@trojsten.sk
 
 Časom bude k dispozícii jedálny lístok.
+Menu taktiež nájdete aj na [stránke](http://www.freefood.sk/menu/#fayn-food).
 
 ## Informácie pre ubytovaných
 
