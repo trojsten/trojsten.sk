@@ -1,0 +1,11 @@
+--2026-07-11 17:28:08--  https://www.seas.sk/wp-content/uploads/2021/03/seas-logo-fullcolor.svg
+Resolving www.seas.sk (www.seas.sk)... 192.124.249.17
+Connecting to www.seas.sk (www.seas.sk)|192.124.249.17|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8397 (8.2K) [image/svg+xml]
+Saving to: ‘seas-logo-fullcolor.svg’
+
+     0K ........                                              100% 7.86M=0.001s
+
+2026-07-11 17:28:09 (7.86 MB/s) - ‘seas-logo-fullcolor.svg’ saved [8397/8397]
+
