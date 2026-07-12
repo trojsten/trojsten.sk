@@ -65,6 +65,8 @@ Vrátnik Ti odovzdá kľúčik a preukaz (žltá kartička).
 Preukaz treba ukázať vždy pri vstupe.
 Na vrátnici si vieš taktiež prevziať posteľnú bielizeň, ak bude na izbe chýbať.
 
+Na internátoch nie sú k dispozícii kuchynky, chladničky ani internet.
+
 Po príchode na izbu **skontroluj, či je všetko v poriadku**, nič nie je rozbité, upchaté atď.
 Ak by bol nejaký problém, hneď nás kontaktuj, pokúsime sa to vyriešiť.
 
