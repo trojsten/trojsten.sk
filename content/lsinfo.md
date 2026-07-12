@@ -91,8 +91,6 @@ V prípade otázok/problémov priamo na mieste môžeš v prvý týždeň LŠ ko
 - Všeobecné otázky - letna.skola@trojsten.sk
 - Platby, financie - adam.zahradnik@trojsten.sk
 - Ubytovanie - Telefónne čísla na vedúcich sú v maili s inštrukciami k ubytovaniu
-<!--
-Voľnočasový program: 0902 633 304 (Jakub Skaloš)\
-Núdzový kontakt na Danka: 0948 850 940 (Daniel Teplan)
--->
+- Núdzový kontakt na Danka: 0948 850 940 (Daniel Teplan)
+
 
