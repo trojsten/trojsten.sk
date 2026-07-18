@@ -8,7 +8,7 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
-<br><div class="text-center"><a href="https://forms.gle/jJUfNEjB1bJz4eTR9" class="btn btn-primary not-prose">Prihlasovanie sa na Logboj (do piatka 17.7., 12:00)</a></div>
+**Mestská hra v nedeľu 19. 7. nebude** kvôli nedostatočnému záujmu.
 
 ## Prihlasovanie
 
