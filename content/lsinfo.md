@@ -8,8 +8,6 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
-<br><div class="text-center"><a href="https://forms.gle/jJUfNEjB1bJz4eTR9" class="btn btn-primary not-prose">Prihlasovanie sa na Logboj (do piatka 17.7., 12:00)</a></div>
-
 ## Prihlasovanie
 
 Prihlasovanie bez ubytovania je ešte možné cez dodatočný formulár na [trojsten.sk/letna-skola](https://trojsten.sk/letna-skola/) na LŠ.
