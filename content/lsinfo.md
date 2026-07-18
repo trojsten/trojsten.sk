@@ -8,6 +8,8 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
+**Mestská hra v nedeľu 19. 7. nebude** kvôli nedostatočnému záujmu.
+
 ## Prihlasovanie
 
 Prihlasovanie bez ubytovania je ešte možné cez dodatočný formulár na [trojsten.sk/letna-skola](https://trojsten.sk/letna-skola/) na LŠ.
