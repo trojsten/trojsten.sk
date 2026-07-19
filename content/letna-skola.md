@@ -18,11 +18,6 @@ menu:
     </a>
 </div>
 
-<div class="text-center mt-10">
-    <a href="https://forms.gle/3ur9WfRgS4Nms8Cb7" class="btn">
-        Dodatočná prihláška (bez ubytovania)
-    </a>
-</div>
 {{</ landing/hero >}}
 
 {{< landing/right-image
@@ -170,7 +165,6 @@ Ak by ťa zaujímali informácie ku konkrétnej časti letnej školy, môžeš n
 
 {{<landing/cta
     title="Chceš sa pridať?"
-    subtitle="Letná škola Trojstenu sa bude konať 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave."
+    subtitle="Letná škola Trojstenu sa konala v termíne 6. 7. – 24. 7. 2026 na FMFI UK v Bratislave. Uvidíme sa v júli 2027!"
 >}}
-    {{<button text="Dodatočná prihláška" url="https://forms.gle/3ur9WfRgS4Nms8Cb7">}}
 {{</landing/cta>}}
