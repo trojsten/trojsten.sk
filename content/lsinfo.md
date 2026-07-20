@@ -8,7 +8,7 @@ aliases:
 Odporúčame túto stránku priebežne kontrolovať, budeme na nej zverejňovať oznamy.
 </div>
 
-**Mestská hra v nedeľu 19. 7. nebude** kvôli nedostatočnému záujmu.
+Pre lezenie na lezeckej stene dnes (pondelok 20.7) vyplňte [informovaný súhlas](https://lezeckecentrum.sk/wp-content/uploads/2020/09/suhlas-zakonneho-zastupcu-dietata.doc) od centra Vertigo.
 
 ## Prihlasovanie
 
