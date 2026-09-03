@@ -10,7 +10,7 @@ Osobné údaje spracúvame na základe Nariadenia Európskeho parlamentu a Rady 
 
 ## Kto spracováva vaše osobné údaje?
 
-Trojsten o.z. \
+Trojsten, o. z. \
 FMFI UK, Mlynská dolina \
 842 48 Bratislava \
 IČO: 30815886
