@@ -5,9 +5,9 @@
 # - name: PosAm
 # logo: posam.png
 # link: https://posam.sk/
-- name: Vacuumlabs
-  logo: vacuumlabs.svg
-  link: https://vacuumlabs.com/jobs
+#- name: Vacuumlabs
+#  logo: vacuumlabs.svg
+#  link: https://vacuumlabs.com/jobs
 - name: Fakulta matematiky, fyziky a informatiky UK
   logo: fmfi.svg
   link: https://fmph.uniba.sk/
