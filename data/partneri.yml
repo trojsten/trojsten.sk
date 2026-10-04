@@ -3,8 +3,8 @@
   logo: eset.svg
   link: https://www.nadaciaeset.sk/
 # - name: PosAm
-  # logo: posam.png
-  # link: https://posam.sk/
+# logo: posam.png
+# link: https://posam.sk/
 - name: Vacuumlabs
   logo: vacuumlabs.svg
   link: https://vacuumlabs.com/jobs
@@ -12,7 +12,7 @@
   logo: fmfi.svg
   link: https://fmph.uniba.sk/
 - name: Wincent
-  logo: wincent.png
+  logo: wincent.svg
   link: https://www.wincent.com/about
 - name: Slovenské Elektrárne
   logo: seas.svg
